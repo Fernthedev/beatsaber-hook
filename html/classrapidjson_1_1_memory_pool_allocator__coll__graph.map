@@ -1,0 +1,9 @@
+<map id="rapidjson::MemoryPoolAllocator&lt; BaseAllocator &gt;" name="rapidjson::MemoryPoolAllocator&lt; BaseAllocator &gt;">
+<area shape="rect" id="node1" title="Default memory allocator used by the parser and DOM." alt="" coords="575,178,777,219"/>
+<area shape="rect" id="node2" href="$structrapidjson_1_1_memory_pool_allocator_1_1_chunk_header.html" title="Chunk header for perpending to each chunk." alt="" coords="177,93,388,134"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,32,61,59"/>
+<area shape="rect" id="node4" href="$classint.html" title=" " alt="" coords="263,159,302,185"/>
+<area shape="rect" id="node5" title=" " alt="" coords="10,228,57,255"/>
+<area shape="rect" id="node6" href="$classrapidjson_1_1_crt_allocator.html" title="C&#45;runtime library allocator." alt="" coords="209,272,357,299"/>
+<area shape="rect" id="node7" title=" " alt="" coords="255,323,310,349"/>
+</map>

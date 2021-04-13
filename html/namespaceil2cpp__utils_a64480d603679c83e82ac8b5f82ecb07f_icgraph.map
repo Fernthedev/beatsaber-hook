@@ -1,0 +1,9 @@
+<map id="il2cpp_utils::MakeGenericType" name="il2cpp_utils::MakeGenericType">
+<area shape="rect" id="node1" title=" " alt="" coords="460,291,659,318"/>
+<area shape="rect" id="node2" href="$namespaceil2cpp__utils.html#ade974bcbe263585fbd0d3a0e8eb7367b" title=" " alt="" coords="241,291,412,318"/>
+<area shape="rect" id="node3" href="$structil2cpp__utils_1_1il2cpp__type__check_1_1il2cpp__no__arg__class_3_01_t_00_01typename_01std_53e7f024228aaf69d0827214195b884f.html#a408e5b0f9a003088030471d10cb65aa4" title=" " alt="" coords="7,5,191,105"/>
+<area shape="rect" id="node4" href="$structil2cpp__utils_1_1il2cpp__type__check_1_1il2cpp__no__arg__class_3_01_s_3_01_t_args_8_8_8_01aa361a932ac7addc245c14febe4934ed.html#a33697d32267a723e2ef4ae8edd177317" title=" " alt="" coords="5,130,193,245"/>
+<area shape="rect" id="node5" href="$structil2cpp__utils_1_1il2cpp__type__check_1_1il2cpp__no__arg__class_3_01_s_3_01_t_args_8_8_8_01_4_01_5_01_4.html#a12cd6aad8592f9880c9634c5e9184ef0" title=" " alt="" coords="19,269,179,340"/>
+<area shape="rect" id="node6" href="$namespaceil2cpp__utils.html#aab4a549671f8b3b112252265c26a43bb" title="Creates and returns a C# System.Action&lt;TArgs...&gt; from the provided function_ptr_t...." alt="" coords="18,365,181,391"/>
+<area shape="rect" id="node7" href="$namespaceil2cpp__utils.html#ae34aec5e69b11a07136ff157e11c4c28" title="Creates and returns a C# System.Func&lt;TArgs..., Ret&gt; from the provided function_ptr_t...." alt="" coords="22,415,177,442"/>
+</map>

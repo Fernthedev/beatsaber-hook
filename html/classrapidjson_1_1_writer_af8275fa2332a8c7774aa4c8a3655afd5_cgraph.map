@@ -1,0 +1,5 @@
+<map id="rapidjson::Writer::WriteNull" name="rapidjson::Writer::WriteNull">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,125,65"/>
+<area shape="rect" id="node2" href="$namespacerapidjson.html#a820f77efccfbb749bd15fe4822d2c740" title="Reserve n characters for writing to a stream." alt="" coords="173,5,321,32"/>
+<area shape="rect" id="node3" href="$namespacerapidjson.html#a0a774dcffe8ae07686f459ae017d2f20" title="Write character to a stream, presuming buffer is reserved." alt="" coords="176,56,319,83"/>
+</map>

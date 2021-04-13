@@ -1,0 +1,4 @@
+<map id="il2cpp_utils::MakeDelegate" name="il2cpp_utils::MakeDelegate">
+<area shape="rect" id="node1" title="Creates a delegate of return type T, with target TObj, using the provided Il2CppClass*." alt="" coords="229,5,405,32"/>
+<area shape="rect" id="node2" href="$namespaceil2cpp__utils.html#a161c8f9dfee4e0f93e0b4403d4d040a7" title="Creates a delegate of return type T, with target TObj, using the provided Il2CppClass*...." alt="" coords="5,5,181,32"/>
+</map>

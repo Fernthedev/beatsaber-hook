@@ -1,0 +1,13 @@
+<map id="Logger::Logger" name="Logger::Logger">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,113,133"/>
+<area shape="rect" id="node2" href="$class_logger.html#a8c1717c69feeb9b1f1351c41cfb070a4" title=" " alt="" coords="161,81,311,108"/>
+<area shape="rect" id="node3" href="$class_logger.html#aa1125edb0f30d67a49280ef6a0a0cbb1" title="Initialize this logger. Deletes existing file logs. This happens on default when this instance is con..." alt="" coords="193,132,279,159"/>
+<area shape="rect" id="node4" href="$utils_8cpp.html#a1b5a0fdba9235b0f2e5420f968c1853d" title=" " alt="" coords="398,5,471,32"/>
+<area shape="rect" id="node5" href="$utils_8cpp.html#a57d061afe49a80f60f8ad8c67860a6d5" title=" " alt="" coords="603,31,675,57"/>
+<area shape="rect" id="node6" href="$utils_8cpp.html#a1e841bf7e2b0e2645ec1ffdfaf5482b5" title=" " alt="" coords="399,107,470,133"/>
+<area shape="rect" id="node7" href="$class_logger_buffer.html#ab49a23b71ea99af421ccf38cfcf5c692" title=" " alt="" coords="559,183,719,209"/>
+<area shape="rect" id="node10" href="$class_logger_buffer.html#ad5de4ff68cf061228a7ed30a29900f12" title=" " alt="" coords="359,208,511,235"/>
+<area shape="rect" id="node11" href="$utils_8cpp.html#ae98eed90855269dacc30437d6f4220c7" title=" " alt="" coords="402,259,467,285"/>
+<area shape="rect" id="node8" href="$class_modloader.html#ada7d5b238b69e39d4f0e67828a1774f6" title=" " alt="" coords="767,157,948,184"/>
+<area shape="rect" id="node9" href="$utils-functions_8h.html#afe043b752b389dd99b377718edb773ee" title=" " alt="" coords="808,208,907,235"/>
+</map>

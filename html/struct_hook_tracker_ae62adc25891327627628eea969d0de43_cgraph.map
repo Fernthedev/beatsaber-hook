@@ -1,0 +1,6 @@
+<map id="HookTracker::InstructionIsHooked" name="HookTracker::InstructionIsHooked">
+<area shape="rect" id="node1" title="Checks to see if there is a hook installed (via instruction parsing) at the offset provided...." alt="" coords="5,23,169,65"/>
+<area shape="rect" id="node2" href="$class_instruction.html#a3e183c005820c76242910018927cc5d3" title=" " alt="" coords="217,5,345,32"/>
+<area shape="rect" id="node4" href="$class_instruction.html#aa4da47d84324d22e56fa2794b3439d14" title=" " alt="" coords="217,56,345,83"/>
+<area shape="rect" id="node3" href="$class_instruction.html#a68a53e80d4d3dd8382f47ad29cf516ce" title=" " alt="" coords="393,5,567,32"/>
+</map>

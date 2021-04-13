@@ -1,0 +1,6 @@
+<map id="LoggerContextObject::changeChildren" name="LoggerContextObject::changeChildren">
+<area shape="rect" id="node1" title="Iterates over all children and either enables or disables them." alt="" coords="460,23,604,65"/>
+<area shape="rect" id="node2" href="$class_logger.html#a8e1cfa5bf7d9daf4825c5e507925d145" title="Recurses over all children contexts and disables/enables if they start with context." alt="" coords="208,31,412,57"/>
+<area shape="rect" id="node3" href="$class_logger.html#a587afdbfd545dffa54c4852b45d2c327" title="Disable logging for any contexts that start with the provided string. This is thread independent,..." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node4" href="$class_logger.html#a6a447dcea79453dc83e9e4fc47151ab4" title="Enables logging for the context. This function does nothing if DisableContext was not called with an ..." alt="" coords="7,56,158,83"/>
+</map>

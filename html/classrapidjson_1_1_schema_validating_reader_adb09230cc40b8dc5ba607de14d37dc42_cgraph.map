@@ -1,0 +1,8 @@
+<map id="rapidjson::SchemaValidatingReader::operator()" name="rapidjson::SchemaValidatingReader::operator()">
+<area shape="rect" id="node1" title=" " alt="" coords="5,149,191,191"/>
+<area shape="rect" id="node2" href="$classrapidjson_1_1_generic_schema_validator.html#a422c16457e512835b0d0f64ec1c81ba2" title="Gets the error object." alt="" coords="270,5,443,47"/>
+<area shape="rect" id="node3" href="$classrapidjson_1_1_generic_schema_validator.html#a60dfb4a89593c8d3ca4c89a6202feb52" title="Gets the JSON pointer pointed to the invalid value." alt="" coords="258,70,455,126"/>
+<area shape="rect" id="node4" href="$classrapidjson_1_1_generic_schema_validator.html#a03bcd5497a574cffbd066d0aec2b5585" title="Gets the keyword of invalid schema." alt="" coords="239,149,475,191"/>
+<area shape="rect" id="node5" href="$classrapidjson_1_1_generic_schema_validator.html#a3238efb9d9144c2d6577362d8dc5f61b" title="Gets the JSON pointer pointed to the invalid schema." alt="" coords="243,215,470,256"/>
+<area shape="rect" id="node6" href="$classrapidjson_1_1_generic_schema_validator.html#ad32a9ad31dbb588edaaf038ab053275b" title="Checks whether the current state is valid." alt="" coords="270,280,443,321"/>
+</map>

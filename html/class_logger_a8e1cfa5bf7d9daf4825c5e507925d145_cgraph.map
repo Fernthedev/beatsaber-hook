@@ -1,0 +1,5 @@
+<map id="Logger::RecurseChangeContext" name="Logger::RecurseChangeContext">
+<area shape="rect" id="node1" title="Recurses over all children contexts and disables/enables if they start with context." alt="" coords="5,42,209,69"/>
+<area shape="rect" id="node2" href="$class_logger_context_object.html#abc295d599bed32aed0da28add8bb351f" title="Iterates over all children and either enables or disables them." alt="" coords="257,5,401,47"/>
+<area shape="rect" id="node3" href="$class_logger.html#af69ae5c2c7935948aa87265859034d6a" title="Call this to re&#45;enable logs for this logger. Decreases performance slightly, but provides debug infor..." alt="" coords="276,71,383,98"/>
+</map>

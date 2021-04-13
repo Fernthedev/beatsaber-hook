@@ -1,0 +1,5 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,60,73"/>
+<area shape="rect" id="node2" href="$classrapidjson_1_1_memory_pool_allocator.html#acdf0fc08cbcd940205a0a6289f1c58bd" title="Computes the total capacity of allocated memory chunks." alt="" coords="108,5,311,47"/>
+<area shape="rect" id="node3" href="$classrapidjson_1_1_memory_pool_allocator.html#aa08b368c54e7643fcd23ef55139b9b40" title="Computes the memory blocks allocated." alt="" coords="108,71,311,112"/>
+</map>

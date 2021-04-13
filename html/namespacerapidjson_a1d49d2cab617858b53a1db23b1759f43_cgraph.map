@@ -1,0 +1,5 @@
+<map id="rapidjson::PutN" name="rapidjson::PutN">
+<area shape="rect" id="node1" title="Put N copies of a character to a stream." alt="" coords="5,31,116,57"/>
+<area shape="rect" id="node2" href="$namespacerapidjson.html#a820f77efccfbb749bd15fe4822d2c740" title="Reserve n characters for writing to a stream." alt="" coords="164,5,312,32"/>
+<area shape="rect" id="node3" href="$namespacerapidjson.html#a0a774dcffe8ae07686f459ae017d2f20" title="Write character to a stream, presuming buffer is reserved." alt="" coords="167,56,309,83"/>
+</map>

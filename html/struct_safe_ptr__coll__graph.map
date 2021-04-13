@@ -1,0 +1,4 @@
+<map id="SafePtr&lt; T &gt;" name="SafePtr&lt; T &gt;">
+<area shape="rect" id="node1" title="Represents a C++ type that wraps a C# pointer that will be valid for the entire lifetime of this inst..." alt="" coords="35,109,131,136"/>
+<area shape="rect" id="node2" href="$struct_count_pointer.html" title=" " alt="" coords="5,5,160,47"/>
+</map>

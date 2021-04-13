@@ -1,0 +1,10 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title=" " alt="" coords="5,209,60,235"/>
+<area shape="rect" id="node2" href="$classrapidjson_1_1_generic_document.html#a7607bb42b51547e44bfd4cab35d8f20e" title="Whether a parse error has occurred in the last parsing." alt="" coords="108,5,292,47"/>
+<area shape="rect" id="node3" href="$classrapidjson_1_1_generic_reader.html#ac42370c3497a0e2b6973110f298e3a59" title="Whether a parse error has occurred in the last parsing." alt="" coords="117,71,283,112"/>
+<area shape="rect" id="node4" href="$classrapidjson_1_1_generic_reader.html#a037aee35044b894d1487b42365aadc4b" title="Check if token&#45;by&#45;token parsing JSON text is complete." alt="" coords="117,136,283,177"/>
+<area shape="rect" id="node5" href="$classrapidjson_1_1_generic_reader.html#a90403a2c55dadf82fd2bb9d4c66b3280" title="Initialize JSON text token&#45;by&#45;token parsing." alt="" coords="117,201,283,243"/>
+<area shape="rect" id="node6" href="$classrapidjson_1_1_generic_reader.html#abac6611bec17167de50fede5cd5194ca" title="Parse one token from JSON text." alt="" coords="117,267,283,308"/>
+<area shape="rect" id="node7" href="$classrapidjson_1_1_generic_document.html#aea842b533a858c9a3861451ad9e8642c" title="Parse JSON text from a read&#45;only string (with Encoding conversion)" alt="" coords="108,332,292,373"/>
+<area shape="rect" id="node8" href="$jsoncheckertest_8cpp.html#a6b1b10e92ee2e28207a65b4df3bb4237" title=" " alt="" coords="163,398,237,425"/>
+</map>

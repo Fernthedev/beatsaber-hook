@@ -1,0 +1,5 @@
+<map id="il2cpp_utils::ExtractFromFunctionNoArgs" name="il2cpp_utils::ExtractFromFunctionNoArgs">
+<area shape="rect" id="node1" title=" " alt="" coords="216,23,379,65"/>
+<area shape="rect" id="node2" href="$namespaceil2cpp__utils.html#aab4a549671f8b3b112252265c26a43bb" title="Creates and returns a C# System.Action&lt;TArgs...&gt; from the provided function_ptr_t...." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node3" href="$namespaceil2cpp__utils.html#ae34aec5e69b11a07136ff157e11c4c28" title="Creates and returns a C# System.Func&lt;TArgs..., Ret&gt; from the provided function_ptr_t...." alt="" coords="9,56,164,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Counter::get" name="Counter::get">
+<area shape="rect" id="node1" title="Gets the reference count of an address, or 0 if no such address exists." alt="" coords="188,5,279,32"/>
+<area shape="rect" id="node2" href="$struct_count_pointer.html#ac68d16d3922930a27afff48945a65bba" title="Gets the reference count held by this pointer." alt="" coords="5,5,140,32"/>
+</map>

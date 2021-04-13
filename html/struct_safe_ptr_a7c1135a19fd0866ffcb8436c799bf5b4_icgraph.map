@@ -1,0 +1,6 @@
+<map id="SafePtr::~SafePtr" name="SafePtr::~SafePtr">
+<area shape="rect" id="node1" title="Destructor. Destroys the internal wrapper type, if necessary. Aborts if a wrapper type exists and mus..." alt="" coords="349,31,472,57"/>
+<area shape="rect" id="node2" href="$struct_safe_ptr.html#a4b1be85bf3dbad7ce2a154788e53fed2" title="Emplace a new value into this SafePtr, freeing an existing one, if it exists." alt="" coords="180,5,301,32"/>
+<area shape="rect" id="node4" href="$struct_safe_ptr.html#a6ab7712357ac3e85b830acc95c8b6d59" title="Move an existing CountPointer&lt;T&gt; into this SafePtr, deleting the existing one, if necessary." alt="" coords="189,56,293,83"/>
+<area shape="rect" id="node3" href="$struct_safe_ptr.html#aff53985fcef0453201a2f06c89190c29" title=" " alt="" coords="5,5,132,32"/>
+</map>

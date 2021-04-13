@@ -1,0 +1,4 @@
+<map id="rapidjson::GenericDocument::Swap" name="rapidjson::GenericDocument::Swap">
+<area shape="rect" id="node1" title="Exchange the contents of this document with those of another." alt="" coords="5,5,189,47"/>
+<area shape="rect" id="node2" href="$namespacerapidjson_1_1internal.html#a68791bde4229e786fa02b0833fee0bef" title="Custom swap() to avoid dependency on C++ &lt;algorithm&gt; header." alt="" coords="237,5,360,47"/>
+</map>

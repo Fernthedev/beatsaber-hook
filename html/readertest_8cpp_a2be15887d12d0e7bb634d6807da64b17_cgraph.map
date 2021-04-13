@@ -1,0 +1,26 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title=" " alt="" coords="5,470,60,497"/>
+<area shape="rect" id="node2" href="$structrapidjson_1_1_parse_result.html#a3c6a1f7b7dc21363a255eb10a3c0e00e" title="Get the error code." alt="" coords="116,233,267,275"/>
+<area shape="rect" id="node3" href="$namespacerapidjson_1_1internal.html#a51f3497ab9a7f691e06329409d6b5191" title=" " alt="" coords="130,299,253,340"/>
+<area shape="rect" id="node19" href="$classrapidjson_1_1internal_1_1_double.html#a5a67f00ff8711f46aed0a6c888f57b80" title=" " alt="" coords="130,364,253,405"/>
+<area shape="rect" id="node20" href="$classrapidjson_1_1internal_1_1_double.html#af8d174992b769af3631b926caafb5ebd" title=" " alt="" coords="130,429,253,471"/>
+<area shape="rect" id="node21" href="$classrapidjson_1_1internal_1_1_double.html#a554e97e612896eeea1abcfb800145b81" title=" " alt="" coords="128,495,255,536"/>
+<area shape="rect" id="node22" href="$classrapidjson_1_1_generic_reader.html#ac9c540b77de19661f6f45e04b9b0937b" title="Parse JSON text." alt="" coords="108,560,275,601"/>
+<area shape="rect" id="node23" href="$classrapidjson_1_1internal_1_1_double.html#a26b58bad74356a267c137eb50aa21797" title=" " alt="" coords="130,625,253,667"/>
+<area shape="rect" id="node24" href="$classrapidjson_1_1internal_1_1_double.html#ab2f141d811565e1a4a3c4d3ec6390981" title=" " alt="" coords="130,691,253,732"/>
+<area shape="rect" id="node4" href="$namespacerapidjson_1_1internal.html#a74828fd6e9a874421231ef346b1126f3" title=" " alt="" coords="323,201,445,243"/>
+<area shape="rect" id="node14" href="$classrapidjson_1_1internal_1_1_double.html#a5f8ef8b899b1c8ff33ba4c78ecaf85ba" title=" " alt="" coords="323,267,445,308"/>
+<area shape="rect" id="node15" href="$namespacerapidjson_1_1internal.html#a7865c7734bca9cbbf66bdc7c0d164a77" title=" " alt="" coords="323,332,445,373"/>
+<area shape="rect" id="node18" href="$classrapidjson_1_1internal_1_1_double.html#a48bc9da5e0a79c25f107faefd3607125" title=" " alt="" coords="323,397,445,439"/>
+<area shape="rect" id="node5" href="$namespacerapidjson_1_1internal.html#a6ba68d7defea7ccc4f8aa2feeafeccde" title=" " alt="" coords="531,71,653,112"/>
+<area shape="rect" id="node8" href="$namespacerapidjson_1_1internal.html#a7c58ee2ca622624367808fa3a40dc9e3" title=" " alt="" coords="527,136,657,177"/>
+<area shape="rect" id="node10" href="$structrapidjson_1_1internal_1_1_diy_fp.html#aa20a0598c891880ee34e8dca914f0117" title=" " alt="" coords="529,201,655,243"/>
+<area shape="rect" id="node12" href="$structrapidjson_1_1internal_1_1_diy_fp.html#ab1a90e2dfc01d7ac05a08c7661635b84" title=" " alt="" coords="493,267,691,308"/>
+<area shape="rect" id="node6" href="$namespacerapidjson_1_1internal.html#ace8d1c16dab8600e0641c4fb6c81aff7" title=" " alt="" coords="753,5,903,47"/>
+<area shape="rect" id="node7" href="$namespacerapidjson_1_1internal.html#a7d7397686d2c8c57cf11d9afae17bb4d" title=" " alt="" coords="767,71,889,112"/>
+<area shape="rect" id="node9" href="$namespacerapidjson_1_1internal.html#a25a77e349cce869daae13c1bdd058d4a" title=" " alt="" coords="740,136,916,177"/>
+<area shape="rect" id="node11" href="$namespacerapidjson_1_1internal.html#a38324bed779bdf6a285676fc7d4f73b0" title=" " alt="" coords="767,201,889,243"/>
+<area shape="rect" id="node13" href="$structrapidjson_1_1internal_1_1_diy_fp.html#a974e356bbf967c43504e796628e61dc4" title=" " alt="" coords="739,267,917,308"/>
+<area shape="rect" id="node16" href="$namespacerapidjson_1_1internal.html#adacfea46aca31aae732f952a9872b6e6" title=" " alt="" coords="531,332,653,373"/>
+<area shape="rect" id="node17" href="$namespacerapidjson_1_1internal.html#a2220f7bb22e11be3bc6f20291659c545" title=" " alt="" coords="767,332,889,373"/>
+</map>

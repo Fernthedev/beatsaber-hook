@@ -1,0 +1,6 @@
+<map id="Logger::DisableContext" name="Logger::DisableContext">
+<area shape="rect" id="node1" title="Disable logging for any contexts that start with the provided string. This is thread independent,..." alt="" coords="5,42,160,69"/>
+<area shape="rect" id="node2" href="$class_logger.html#a8e1cfa5bf7d9daf4825c5e507925d145" title="Recurses over all children contexts and disables/enables if they start with context." alt="" coords="208,42,412,69"/>
+<area shape="rect" id="node3" href="$class_logger_context_object.html#abc295d599bed32aed0da28add8bb351f" title="Iterates over all children and either enables or disables them." alt="" coords="460,5,604,47"/>
+<area shape="rect" id="node4" href="$class_logger.html#af69ae5c2c7935948aa87265859034d6a" title="Call this to re&#45;enable logs for this logger. Decreases performance slightly, but provides debug infor..." alt="" coords="479,71,585,98"/>
+</map>

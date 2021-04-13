@@ -1,0 +1,4 @@
+<map id="CountPointer::CountPointer" name="CountPointer::CountPointer">
+<area shape="rect" id="node1" title="Copy constructor, copies and adds to the reference count for the held non&#45;null pointer." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$struct_counter.html#aa5016025f3fa8aaa77d7f02df59ca34f" title="Adds to the reference count of an address. If the address does not exist, initializes a new entry for..." alt="" coords="232,5,327,32"/>
+</map>

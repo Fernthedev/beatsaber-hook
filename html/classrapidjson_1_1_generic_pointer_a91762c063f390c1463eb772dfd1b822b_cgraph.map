@@ -1,0 +1,4 @@
+<map id="rapidjson::GenericPointer::Swap" name="rapidjson::GenericPointer::Swap">
+<area shape="rect" id="node1" title="Swap the content of this pointer with an other." alt="" coords="5,5,172,47"/>
+<area shape="rect" id="node2" href="$namespacerapidjson_1_1internal.html#a68791bde4229e786fa02b0833fee0bef" title="Custom swap() to avoid dependency on C++ &lt;algorithm&gt; header." alt="" coords="220,5,343,47"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="rapidjson::internal::Schema&lt; SchemaDocumentType &gt;::PatternProperty" name="rapidjson::internal::Schema&lt; SchemaDocumentType &gt;::PatternProperty">
+<area shape="rect" id="node1" title=" " alt="" coords="1220,407,1443,463"/>
+<area shape="rect" id="node2" href="$classrapidjson_1_1internal_1_1_schema.html" title=" " alt="" coords="1600,487,1833,529"/>
+<area shape="rect" id="node28" href="$structrapidjson_1_1internal_1_1_schema_1_1_property.html" title=" " alt="" coords="2013,641,2236,697"/>
+<area shape="rect" id="node29" href="$structrapidjson_1_1internal_1_1_schema_1_1_schema_array.html" title=" " alt="" coords="2013,405,2236,461"/>
+<area shape="rect" id="node3" title=" " alt="" coords="1286,356,1377,383"/>
+<area shape="rect" id="node4" title=" " alt="" coords="251,439,297,465"/>
+<area shape="rect" id="node30" href="$classrapidjson_1_1internal_1_1_generic_regex.html" title="Regular expression engine with subset of ECMAscript grammar." alt="" coords="857,407,1035,463"/>
+<area shape="rect" id="node32" href="$classrapidjson_1_1_crt_allocator.html" title="C&#45;runtime library allocator." alt="" coords="540,483,688,509"/>
+<area shape="rect" id="node5" href="$classrapidjson_1_1_generic_value.html" title=" " alt="" coords="1226,794,1437,835"/>
+<area shape="rect" id="node6" title=" " alt="" coords="9,952,83,979"/>
+<area shape="rect" id="node10" href="$structrapidjson_1_1_generic_value_1_1_flag.html" title=" " alt="" coords="195,1028,353,1084"/>
+<area shape="rect" id="node12" href="$structrapidjson_1_1_generic_value_1_1_array_data.html" title=" " alt="" coords="1637,1387,1796,1443"/>
+<area shape="rect" id="node15" href="$structrapidjson_1_1_generic_value_1_1_object_data.html" title=" " alt="" coords="2045,1009,2204,1065"/>
+<area shape="rect" id="node17" href="$classrapidjson_1_1_generic_value.html" title=" " alt="" coords="1252,1009,1411,1065"/>
+<area shape="rect" id="node18" href="$unionrapidjson_1_1_generic_value_1_1_number.html" title=" " alt="" coords="535,1231,693,1287"/>
+<area shape="rect" id="node23" href="$structrapidjson_1_1_generic_value_1_1_number_1_1_u.html" title=" " alt="" coords="195,1272,353,1328"/>
+<area shape="rect" id="node24" href="$structrapidjson_1_1_generic_value_1_1_string.html" title=" " alt="" coords="195,1483,353,1539"/>
+<area shape="rect" id="node7" href="$unionrapidjson_1_1_generic_value_1_1_data.html" title=" " alt="" coords="867,1305,1025,1361"/>
+<area shape="rect" id="node13" href="$classrapidjson_1_1_generic_value.html" title="Represents a JSON value. Use Value for UTF8 encoding and default allocator." alt="" coords="1252,1394,1411,1435"/>
+<area shape="rect" id="node8" href="$structrapidjson_1_1_generic_value_1_1_short_string.html" title=" " alt="" coords="535,1332,693,1388"/>
+<area shape="rect" id="node9" title=" " alt="" coords="255,1432,293,1459"/>
+<area shape="rect" id="node11" title=" " alt="" coords="23,1259,69,1285"/>
+<area shape="rect" id="node20" href="$structrapidjson_1_1_generic_value_1_1_number_1_1_i.html" title=" " alt="" coords="195,1352,353,1408"/>
+<area shape="rect" id="node14" title=" " alt="" coords="873,1415,1019,1441"/>
+<area shape="rect" id="node16" href="$classrapidjson_1_1_generic_member.html" title="Name&#45;value pair in a JSON object value." alt="" coords="1631,1017,1803,1058"/>
+<area shape="rect" id="node19" title=" " alt="" coords="244,1221,304,1248"/>
+<area shape="rect" id="node21" href="$classint.html" title=" " alt="" coords="27,1409,65,1436"/>
+<area shape="rect" id="node22" title=" " alt="" coords="221,1171,327,1197"/>
+<area shape="rect" id="node25" title=" " alt="" coords="5,1497,87,1524"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1293,487,1369,513"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1277,537,1386,564"/>
+<area shape="rect" id="node31" href="$classrapidjson_1_1internal_1_1_stack.html" title=" " alt="" coords="549,325,679,381"/>
+</map>

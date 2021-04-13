@@ -1,0 +1,4 @@
+<map id="HookTracker::RemoveHook" name="HookTracker::RemoveHook">
+<area shape="rect" id="node1" title="Calls RemoveHook." alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node2" href="$struct_hook_tracker.html#ae2e300107077e0e6d3613ad51b7bc3fd" title="Stops tracking the provided HookInfo." alt="" coords="236,5,419,32"/>
+</map>

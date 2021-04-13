@@ -1,0 +1,11 @@
+<map id="rapidjson::internal::Swap" name="rapidjson::internal::Swap">
+<area shape="rect" id="node1" title="Custom swap() to avoid dependency on C++ &lt;algorithm&gt; header." alt="" coords="488,118,611,159"/>
+<area shape="rect" id="node2" href="$classrapidjson_1_1internal_1_1_generic_regex_search.html#a29e3ab6d7d2666a7d30a9326a992e3ea" title=" " alt="" coords="271,5,425,61"/>
+<area shape="rect" id="node3" href="$classrapidjson_1_1_generic_document.html#abf1cbab989b856f9d260787b2575750b" title="Exchange the contents of this document with those of another." alt="" coords="256,85,440,126"/>
+<area shape="rect" id="node6" href="$classrapidjson_1_1_generic_pointer.html#a91762c063f390c1463eb772dfd1b822b" title="Swap the content of this pointer with an other." alt="" coords="265,150,431,191"/>
+<area shape="rect" id="node9" href="$classrapidjson_1_1internal_1_1_stack.html#ae45ca5eb4e96402169dcd0bd1bd011bf" title=" " alt="" coords="287,215,409,257"/>
+<area shape="rect" id="node4" href="$class_configuration.html#a7d64e4611fef81d32f47f270cfeecc82" title=" " alt="" coords="17,45,196,72"/>
+<area shape="rect" id="node5" href="$documenttest_8cpp.html#a4a57d7460a1292e90944832a90aa7070" title=" " alt="" coords="79,96,134,123"/>
+<area shape="rect" id="node7" href="$namespacerapidjson.html#a54ef9e175c0a22c8dc894dd001063b43" title=" " alt="" coords="5,151,208,177"/>
+<area shape="rect" id="node8" href="$pointertest_8cpp.html#a850b5ef6bb119da1eaec4bfb06bd3a83" title=" " alt="" coords="79,201,134,228"/>
+</map>

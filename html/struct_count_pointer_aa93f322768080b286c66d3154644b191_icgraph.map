@@ -1,0 +1,4 @@
+<map id="CountPointer::emplace" name="CountPointer::emplace">
+<area shape="rect" id="node1" title="Emplaces a new pointer into the shared pointer, decreasing the existing ref count as necessary." alt="" coords="212,5,364,32"/>
+<area shape="rect" id="node2" href="$struct_count_pointer.html#aa97e21cbe33af9e3cda8d9b5538fc9cf" title="Assignment operator." alt="" coords="5,5,164,32"/>
+</map>

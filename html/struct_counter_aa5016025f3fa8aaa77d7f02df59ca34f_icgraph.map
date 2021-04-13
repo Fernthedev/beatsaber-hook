@@ -1,0 +1,6 @@
+<map id="Counter::add" name="Counter::add">
+<area shape="rect" id="node1" title="Adds to the reference count of an address. If the address does not exist, initializes a new entry for..." alt="" coords="439,31,533,57"/>
+<area shape="rect" id="node2" href="$struct_count_pointer.html#a8c686f3b9e8be1eeae0681746672f2ba" title="Construct a count pointer from the provided pointer, adding to the reference count (if non&#45;null) for ..." alt="" coords="212,5,391,32"/>
+<area shape="rect" id="node3" href="$struct_count_pointer.html#aa93f322768080b286c66d3154644b191" title="Emplaces a new pointer into the shared pointer, decreasing the existing ref count as necessary." alt="" coords="225,56,377,83"/>
+<area shape="rect" id="node4" href="$struct_count_pointer.html#aa97e21cbe33af9e3cda8d9b5538fc9cf" title="Assignment operator." alt="" coords="5,56,164,83"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,483,56,510"/>
+<area shape="rect" id="node2" href="$classrapidjson_1_1_generic_string_buffer.html#a614af5a72984c88bd5a65e2bc233d310" title=" " alt="" coords="143,5,301,47"/>
+<area shape="rect" id="node3" href="$classrapidjson_1_1_generic_schema_validator.html#a422c16457e512835b0d0f64ec1c81ba2" title="Gets the error object." alt="" coords="135,71,309,112"/>
+<area shape="rect" id="node4" href="$classrapidjson_1_1_generic_document.html#af532179ca5ad5434a5e8af63f5da4c5f" title="Get the position of last parsing error in input, 0 otherwise." alt="" coords="130,136,314,177"/>
+<area shape="rect" id="node5" href="$classrapidjson_1_1_generic_reader.html#ab50019e0a715320f83b7610b83dcef8f" title="Get the position of last parsing error in input, 0 otherwise." alt="" coords="139,201,305,243"/>
+<area shape="rect" id="node6" href="$classrapidjson_1_1_generic_schema_validator.html#a60dfb4a89593c8d3ca4c89a6202feb52" title="Gets the JSON pointer pointed to the invalid value." alt="" coords="123,266,321,322"/>
+<area shape="rect" id="node7" href="$classrapidjson_1_1_generic_schema_validator.html#a03bcd5497a574cffbd066d0aec2b5585" title="Gets the keyword of invalid schema." alt="" coords="104,345,340,387"/>
+<area shape="rect" id="node8" href="$classrapidjson_1_1_generic_schema_validator.html#a3238efb9d9144c2d6577362d8dc5f61b" title="Gets the JSON pointer pointed to the invalid schema." alt="" coords="109,411,335,452"/>
+<area shape="rect" id="node9" href="$classrapidjson_1_1_generic_document.html#ab94c280c079a6837a24951cb4d8f337b" title="Get the ParseErrorCode of last parsing." alt="" coords="130,476,314,517"/>
+<area shape="rect" id="node10" href="$group___r_a_p_i_d_j_s_o_n___e_r_r_o_r_s.html#gae982013498511a0ef3c2a3d2069adb4f" title="Maps error code of parsing into error message." alt="" coords="130,542,314,569"/>
+<area shape="rect" id="node11" href="$classrapidjson_1_1_generic_reader.html#a042c621cf745c5ed3a6f5ff9418dd05e" title="Get the ParseErrorCode of last parsing." alt="" coords="139,593,305,635"/>
+<area shape="rect" id="node12" href="$classrapidjson_1_1_generic_string_buffer.html#a520c0f75424762ea44ebf6ecdd1931d8" title=" " alt="" coords="143,659,301,700"/>
+<area shape="rect" id="node13" href="$classrapidjson_1_1_generic_document.html#a7607bb42b51547e44bfd4cab35d8f20e" title="Whether a parse error has occurred in the last parsing." alt="" coords="130,724,314,765"/>
+<area shape="rect" id="node14" href="$classrapidjson_1_1_generic_schema_validator.html#ad32a9ad31dbb588edaaf038ab053275b" title="Checks whether the current state is valid." alt="" coords="135,789,309,831"/>
+<area shape="rect" id="node15" href="$classrapidjson_1_1_generic_reader.html#ac9c540b77de19661f6f45e04b9b0937b" title="Parse JSON text." alt="" coords="139,855,305,896"/>
+<area shape="rect" id="node16" href="$classrapidjson_1_1_generic_document.html#a3ae97682cf04685c7db9d89ebc399b85" title="Parse JSON text from an input stream (with Encoding conversion)" alt="" coords="130,920,314,961"/>
+</map>

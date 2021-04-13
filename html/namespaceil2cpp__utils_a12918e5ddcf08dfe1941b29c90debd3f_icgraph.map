@@ -1,0 +1,5 @@
+<map id="il2cpp_utils::AddAllocatedDelegate" name="il2cpp_utils::AddAllocatedDelegate">
+<area shape="rect" id="node1" title="Adds the allocated Delegate* to the set of mapped delegates." alt="" coords="453,5,624,47"/>
+<area shape="rect" id="node2" href="$namespaceil2cpp__utils.html#a3e72f693026836133466b21f8f1c4031" title="Creates a delegate of return type T, with target TObj, using the provided Il2CppClass*." alt="" coords="229,13,405,39"/>
+<area shape="rect" id="node3" href="$namespaceil2cpp__utils.html#a161c8f9dfee4e0f93e0b4403d4d040a7" title="Creates a delegate of return type T, with target TObj, using the provided Il2CppClass*...." alt="" coords="5,13,181,39"/>
+</map>

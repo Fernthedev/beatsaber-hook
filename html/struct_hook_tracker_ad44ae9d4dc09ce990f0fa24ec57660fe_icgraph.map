@@ -1,0 +1,4 @@
+<map id="HookTracker::AddHook" name="HookTracker::AddHook">
+<area shape="rect" id="node1" title="Adds a HookInfo to be tracked." alt="" coords="211,5,368,32"/>
+<area shape="rect" id="node2" href="$struct_hook_tracker.html#afd0d600c92b32ece923f432fc708fdc4" title="Calls AddHook." alt="" coords="5,5,163,32"/>
+</map>

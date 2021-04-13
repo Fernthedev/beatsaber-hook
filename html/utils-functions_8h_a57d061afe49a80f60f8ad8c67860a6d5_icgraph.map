@@ -1,0 +1,52 @@
+<map id="fileexists" name="fileexists">
+<area shape="rect" id="node1" title=" " alt="" coords="1436,1873,1508,1900"/>
+<area shape="rect" id="node2" href="$utils_8cpp.html#a1b5a0fdba9235b0f2e5420f968c1853d" title=" " alt="" coords="1304,1823,1377,1849"/>
+<area shape="rect" id="node3" href="$logging_8cpp.html#ae4e9cf3e5cbdfdc90e03f69ec379edbf" title=" " alt="" coords="1133,1823,1215,1849"/>
+<area shape="rect" id="node37" href="$class_logger.html#aa1125edb0f30d67a49280ef6a0a0cbb1" title="Initialize this logger. Deletes existing file logs. This happens on default when this instance is con..." alt="" coords="1131,1772,1217,1799"/>
+<area shape="rect" id="node48" href="$class_configuration.html#a41c52ac2962920e0ff1404f48dd29a68" title=" " alt="" coords="923,1975,1055,2001"/>
+<area shape="rect" id="node49" href="$config-utils_8cpp.html#a7a29400ab2a1fa767ecb76fbddbd28fc" title=" " alt="" coords="1293,1975,1388,2001"/>
+<area shape="rect" id="node4" href="$class_logger.html#afee2bab560c2db0190c980884d33868c" title="Closes the buffer for this logger instance, flushing as necessary. After this call,..." alt="" coords="271,1873,369,1900"/>
+<area shape="rect" id="node5" href="$class_logger.html#ac99ebafbd377bad8a92be499f5eae834" title="Close all open LoggerBuffer objects. Should only be called on a crash or exit of the game." alt="" coords="263,288,377,315"/>
+<area shape="rect" id="node8" href="$class_logger.html#a5cc08473729523bb4bde48459f2ac468" title="Flushes the buffer for this logger instance." alt="" coords="273,1823,367,1849"/>
+<area shape="rect" id="node9" href="$class_logger.html#a553577a214b1885ee90a02737b08d629" title="Flush all open LoggerBuffer objects." alt="" coords="265,477,375,504"/>
+<area shape="rect" id="node10" href="$class_logger.html#a4884b867316482dc0abcad2316389c74" title=" " alt="" coords="946,1587,1031,1613"/>
+<area shape="rect" id="node36" href="$class_consumer.html#acf90a7b8ae3f322db47f18616fcfd167" title=" " alt="" coords="249,1924,391,1951"/>
+<area shape="rect" id="node6" href="$il2cpp-functions_8cpp.html#a96737858208c2db92dea15759a035519" title=" " alt="" coords="15,288,163,315"/>
+<area shape="rect" id="node7" href="$utils_8cpp.html#a05888d9eee86a8d43c67f4fd1678dc9f" title=" " alt="" coords="49,499,128,525"/>
+<area shape="rect" id="node11" href="$class_logger.html#a0fc18e7593c9a7e107b1359f98db015a" title=" " alt="" coords="738,1697,845,1724"/>
+<area shape="rect" id="node15" href="$class_logger.html#a709dff2a5c3b153ace3765b29b9d90c3" title=" " alt="" coords="740,1320,843,1347"/>
+<area shape="rect" id="node24" href="$class_logger.html#a5a6cca2115014337552f8cf26a9e9546" title=" " alt="" coords="744,507,839,533"/>
+<area shape="rect" id="node26" href="$class_logger.html#a7c6b5297b7500f23cc4f92b9bb55e6bd" title=" " alt="" coords="747,1587,836,1613"/>
+<area shape="rect" id="node28" href="$class_logger_context_object.html#a5c0f8cc2d6f7985b26b92a3bbda32b05" title=" " alt="" coords="708,1637,875,1664"/>
+<area shape="rect" id="node29" href="$class_logger.html#a3db0905d0620fc9fd9275dcb148f9940" title=" " alt="" coords="749,456,834,483"/>
+<area shape="rect" id="node30" href="$utils_8cpp.html#a44021c644a1c65ee2d8be4b764721397" title=" " alt="" coords="541,1772,587,1799"/>
+<area shape="rect" id="node32" href="$class_logger.html#ac10e8601d936c520cfcc77fe64ced40f" title=" " alt="" coords="735,1531,848,1557"/>
+<area shape="rect" id="node12" href="$class_logger_context_object.html#ac8b10f046e58ab54da93842fa8b8e7fc" title=" " alt="" coords="492,1706,636,1747"/>
+<area shape="rect" id="node13" href="$instruction-parsing_8cpp.html#af47a81adb4f1cd52c5ac045e91df8076" title=" " alt="" coords="220,1168,420,1195"/>
+<area shape="rect" id="node14" href="$class_instruction_tree.html#ab0d98634dcdc7d1fcfa4aa3cf59212fd" title=" " alt="" coords="5,942,172,983"/>
+<area shape="rect" id="node16" href="$class_logger_context_object.html#a9ae01bfe99bda6570eb1d103b65e1f7a" title=" " alt="" coords="492,1001,636,1042"/>
+<area shape="rect" id="node19" href="$utils_8cpp.html#a7c56eb79cbb880718d66ae0de233bea4" title=" " alt="" coords="537,1371,591,1397"/>
+<area shape="rect" id="node20" href="$class_instruction.html#ae533504084430bf6da747d361e4127f6" title=" " alt="" coords="255,364,385,391"/>
+<area shape="rect" id="node21" href="$utils_8cpp.html#a86af6e9b6fa2752ce7917310f0cbfeba" title=" " alt="" coords="501,1421,627,1448"/>
+<area shape="rect" id="node22" href="$instruction-parsing_8hpp.html#a7b1c9b260bef1ecc18fd45d617fa9513" title=" " alt="" coords="526,1320,602,1347"/>
+<area shape="rect" id="node23" href="$instruction-parsing_8hpp.html#aea31ae5b472d91b929f521920758d6da" title=" " alt="" coords="539,1269,589,1296"/>
+<area shape="rect" id="node17" href="$class_assembly_function.html#a78cfebe20de520a367700b18e4493fc4" title=" " alt="" coords="224,942,416,983"/>
+<area shape="rect" id="node18" href="$instruction-parsing_8cpp.html#a303b75c0b27298955e2487e2dc3c6ea3" title=" " alt="" coords="240,891,400,917"/>
+<area shape="rect" id="node25" href="$class_logger_context_object.html#ab928f61383187c12aec1716c034f5aea" title=" " alt="" coords="492,209,636,250"/>
+<area shape="rect" id="node27" href="$class_logger_context_object.html#abc18b53239167d02033cf238369ac2b3" title=" " alt="" coords="492,1641,636,1682"/>
+<area shape="rect" id="node31" href="$utils_8cpp.html#a0254969008e5fd6e501924c0b15544dd" title=" " alt="" coords="271,1772,369,1799"/>
+<area shape="rect" id="node33" href="$class_configuration.html#a650089966c4fad4dca9924d5f7ade05c" title=" " alt="" coords="474,1472,654,1499"/>
+<area shape="rect" id="node34" href="$namespaceil2cpp__utils.html#ab4cb13c4960ce13c7d04138d35ffec13" title=" " alt="" coords="233,1117,407,1144"/>
+<area shape="rect" id="node35" href="$class_logger_context_object.html#a9d709506b41247d759bfbb13a160b5bf" title=" " alt="" coords="492,1523,636,1565"/>
+<area shape="rect" id="node38" href="$class_logger.html#a69edb9dfe89b561281e694e9d93ce2c6" title=" " alt="" coords="935,5,1043,32"/>
+<area shape="rect" id="node39" href="$class_logger.html#a9b12ce53593be134b7d7dea62607d22d" title="Returns the logger that is used within the utils library. This function should not be used outside of..." alt="" coords="748,823,835,849"/>
+<area shape="rect" id="node40" href="$struct_hook_tracker.html#ac376b5317d308cae54c47b6e24dd91ba" title="Combines all HookTrackers from all bs&#45;hook libraries together." alt="" coords="468,848,660,875"/>
+<area shape="rect" id="node41" href="$instruction-parsing_8cpp.html#a87496c69670a8e89edca475a03a220b3" title=" " alt="" coords="521,899,607,925"/>
+<area shape="rect" id="node42" href="$instruction-parsing_8cpp.html#a6f6851a7ff5b72b57805b1a1d66b6bc5" title=" " alt="" coords="509,427,619,453"/>
+<area shape="rect" id="node43" href="$class_logger_buffer.html#a5143acff5ed66b205477e747047bb1fc" title=" " alt="" coords="499,1219,629,1245"/>
+<area shape="rect" id="node44" href="$classil2cpp__functions.html#a1602eb932af5ef329b743a298c291003" title=" " alt="" coords="479,529,649,570"/>
+<area shape="rect" id="node45" href="$utils_8cpp.html#adf4682b17fa6da1d17f0a9ae57149112" title="Get the size of the libil2cpp.so file." alt="" coords="505,595,623,621"/>
+<area shape="rect" id="node46" href="$namespaceil2cpp__utils.html#a160ebfda2d0bfeb933223c7588cee0ae" title=" " alt="" coords="489,1067,639,1093"/>
+<area shape="rect" id="node47" href="$class_instruction.html#ae45add06a7e03f6021ae4b5ec54ab419" title=" " alt="" coords="489,376,639,403"/>
+<area shape="rect" id="node50" href="$class_configuration.html#a67fc502741b329e7257479e5b41cb506" title=" " alt="" coords="1103,1975,1245,2001"/>
+</map>

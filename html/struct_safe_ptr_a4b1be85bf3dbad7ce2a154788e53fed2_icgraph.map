@@ -1,0 +1,4 @@
+<map id="SafePtr::emplace" name="SafePtr::emplace">
+<area shape="rect" id="node1" title="Emplace a new value into this SafePtr, freeing an existing one, if it exists." alt="" coords="180,5,301,32"/>
+<area shape="rect" id="node2" href="$struct_safe_ptr.html#aff53985fcef0453201a2f06c89190c29" title=" " alt="" coords="5,5,132,32"/>
+</map>

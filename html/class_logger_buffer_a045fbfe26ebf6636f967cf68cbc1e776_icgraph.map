@@ -1,0 +1,11 @@
+<map id="LoggerBuffer::length" name="LoggerBuffer::length">
+<area shape="rect" id="node1" title=" " alt="" coords="569,107,707,133"/>
+<area shape="rect" id="node2" href="$class_logger_buffer.html#a5143acff5ed66b205477e747047bb1fc" title=" " alt="" coords="392,107,521,133"/>
+<area shape="rect" id="node3" href="$class_logger.html#afee2bab560c2db0190c980884d33868c" title="Closes the buffer for this logger instance, flushing as necessary. After this call,..." alt="" coords="223,5,322,32"/>
+<area shape="rect" id="node4" href="$class_logger.html#ac99ebafbd377bad8a92be499f5eae834" title="Close all open LoggerBuffer objects. Should only be called on a crash or exit of the game." alt="" coords="215,56,330,83"/>
+<area shape="rect" id="node7" href="$class_logger.html#a5cc08473729523bb4bde48459f2ac468" title="Flushes the buffer for this logger instance." alt="" coords="225,107,320,133"/>
+<area shape="rect" id="node8" href="$class_logger.html#a553577a214b1885ee90a02737b08d629" title="Flush all open LoggerBuffer objects." alt="" coords="217,157,328,184"/>
+<area shape="rect" id="node9" href="$class_consumer.html#acf90a7b8ae3f322db47f18616fcfd167" title=" " alt="" coords="201,208,344,235"/>
+<area shape="rect" id="node5" href="$il2cpp-functions_8cpp.html#a96737858208c2db92dea15759a035519" title=" " alt="" coords="5,31,153,57"/>
+<area shape="rect" id="node6" href="$utils_8cpp.html#a05888d9eee86a8d43c67f4fd1678dc9f" title=" " alt="" coords="40,81,119,108"/>
+</map>

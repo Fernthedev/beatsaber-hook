@@ -1,0 +1,23 @@
+<map id="il2cpp_utils::GetClassFromName" name="il2cpp_utils::GetClassFromName">
+<area shape="rect" id="node1" title=" " alt="" coords="479,509,691,535"/>
+<area shape="rect" id="node2" href="$namespaceil2cpp__utils.html#aa1394742f76eacde822aef62f97f7ae8" title=" " alt="" coords="253,5,407,47"/>
+<area shape="rect" id="node4" href="$namespaceil2cpp__utils.html#a6ec4009b41fcd6421c85bfb4f8018a2f" title=" " alt="" coords="245,71,415,98"/>
+<area shape="rect" id="node5" href="$namespaceil2cpp__utils.html#ae0dac2ac129eaf0043e821e70b488dff" title=" " alt="" coords="257,122,403,149"/>
+<area shape="rect" id="node6" href="$namespaceil2cpp__utils.html#aeca848642cc6602eba4592eb01e3bd88" title=" " alt="" coords="249,173,411,215"/>
+<area shape="rect" id="node7" href="$namespaceil2cpp__utils.html#a2ab07049a6b83ef3db4bc8eb00dafc26" title=" " alt="" coords="247,239,413,266"/>
+<area shape="rect" id="node8" href="$namespaceil2cpp__utils.html#af33d7bd828658f0d442bc3b27ce20c40" title=" " alt="" coords="243,290,417,317"/>
+<area shape="rect" id="node9" href="$namespaceil2cpp__utils.html#ab7b492583e8895d90715e76724a82752" title=" " alt="" coords="249,341,411,383"/>
+<area shape="rect" id="node10" href="$namespaceil2cpp__utils.html#aac0e1deb4729304968329da33a5050dd" title=" " alt="" coords="237,407,423,434"/>
+<area shape="rect" id="node11" href="$namespaceil2cpp__utils.html#aab4a549671f8b3b112252265c26a43bb" title="Creates and returns a C# System.Action&lt;TArgs...&gt; from the provided function_ptr_t...." alt="" coords="249,458,411,485"/>
+<area shape="rect" id="node12" href="$namespaceil2cpp__utils.html#a1db9a28ec985862bd9bb73756e3e898f" title="Makes a delegate wrapping a context function (such as a context lambda)." alt="" coords="242,509,418,535"/>
+<area shape="rect" id="node13" href="$namespaceil2cpp__utils.html#ae34aec5e69b11a07136ff157e11c4c28" title="Creates and returns a C# System.Func&lt;TArgs..., Ret&gt; from the provided function_ptr_t...." alt="" coords="253,559,407,586"/>
+<area shape="rect" id="node14" href="$namespaceil2cpp__utils.html#ac77080ef6e7283e4fffd0eb0d8f0f889" title=" " alt="" coords="270,610,390,637"/>
+<area shape="rect" id="node15" href="$namespaceil2cpp__utils.html#a0b8a5dd2022847a266ea30ec5be2ce4e" title=" " alt="" coords="249,661,411,687"/>
+<area shape="rect" id="node16" href="$namespaceil2cpp__utils.html#a163e67b79b2ffbde3e08c1a1f7b58c31" title=" " alt="" coords="249,712,411,753"/>
+<area shape="rect" id="node17" href="$namespaceil2cpp__utils.html#add2e97c489947564b86ddfcb9df0f044" title=" " alt="" coords="251,778,409,805"/>
+<area shape="rect" id="node18" href="$namespaceil2cpp__utils.html#a075f443442a9db45e1918e147624c6cb" title=" " alt="" coords="229,829,431,855"/>
+<area shape="rect" id="node19" href="$namespaceil2cpp__utils.html#a7bdc9ab427916aa9fb8564087c00569c" title=" " alt="" coords="243,879,417,906"/>
+<area shape="rect" id="node20" href="$namespaceil2cpp__utils.html#a11dfdb9c7fe25726fafe62e316629a20" title=" " alt="" coords="249,931,411,972"/>
+<area shape="rect" id="node21" href="$namespaceil2cpp__utils.html#aa471d505e71cf4affa682b28cf6b76d3" title=" " alt="" coords="251,997,409,1023"/>
+<area shape="rect" id="node3" href="$namespaceil2cpp__utils.html#a5d6a852ecbca2c19ba19b51e2724a191" title="Makes a delegate wrapping a context function (such as a context lambda)." alt="" coords="5,13,181,39"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="rapidjson::GenericReader::ParseNumber" name="rapidjson::GenericReader::ParseNumber">
+<area shape="rect" id="node1" title=" " alt="" coords="5,469,172,511"/>
+<area shape="rect" id="node2" href="$classrapidjson_1_1_generic_reader_1_1_stack_stream.html#a8e7a1a66d6602cbe3e290a94d1f99eb8" title=" " alt="" coords="220,339,387,380"/>
+<area shape="rect" id="node3" href="$classrapidjson_1_1_generic_reader_1_1_stack_stream.html#a0d0f7dc8727ab44301ea697563068a19" title=" " alt="" coords="220,404,387,445"/>
+<area shape="rect" id="node4" href="$classrapidjson_1_1_generic_reader_1_1_stack_stream.html#a86be44e7edd2a6afa32325b783d6e0e7" title=" " alt="" coords="220,469,387,511"/>
+<area shape="rect" id="node5" href="$namespacerapidjson_1_1internal.html#afdec628bd595f8aca4ff74ec9e3c88f2" title=" " alt="" coords="234,535,373,576"/>
+<area shape="rect" id="node23" href="$namespacerapidjson_1_1internal.html#a0173579d8f2b3724583f64758beb8e69" title=" " alt="" coords="435,645,593,687"/>
+<area shape="rect" id="node6" href="$namespacerapidjson_1_1internal.html#aeb0c7910094111c91cd31339bf707950" title=" " alt="" coords="453,313,575,355"/>
+<area shape="rect" id="node14" href="$namespacerapidjson_1_1internal.html#a2005b2ac382e70120987b7889476d01f" title=" " alt="" coords="453,489,575,531"/>
+<area shape="rect" id="node20" href="$namespacerapidjson_1_1internal.html#acfd06fe2a2709ad372a373f0921e9571" title=" " alt="" coords="453,580,575,621"/>
+<area shape="rect" id="node7" href="$namespacerapidjson_1_1internal.html#a1c9faaa8ff1461a84ee35c04c7b926c5" title=" " alt="" coords="641,201,793,243"/>
+<area shape="rect" id="node8" href="$classrapidjson_1_1internal_1_1_big_integer.html#a4fe28d5e962cd9ad471536508ce47fdb" title=" " alt="" coords="857,5,1003,47"/>
+<area shape="rect" id="node9" href="$classrapidjson_1_1internal_1_1_big_integer.html#a23baf787c5ab4a2992bed7f7e260ed9e" title=" " alt="" coords="855,71,1005,112"/>
+<area shape="rect" id="node10" href="$classrapidjson_1_1internal_1_1_double.html#a5d75c8b17eb36703ea78d940b85c5364" title=" " alt="" coords="847,136,1013,177"/>
+<area shape="rect" id="node11" href="$classrapidjson_1_1internal_1_1_double.html#a91859964023326d3678b9b14b8dd2a16" title=" " alt="" coords="841,201,1019,243"/>
+<area shape="rect" id="node12" href="$namespacerapidjson_1_1internal.html#a7d72423e8173159a0d90cac2f2ef6b8a" title=" " alt="" coords="869,267,991,308"/>
+<area shape="rect" id="node13" href="$classrapidjson_1_1internal_1_1_big_integer.html#a60c5fbdcd9992177d25bda441e5d49bb" title=" " alt="" coords="845,332,1015,373"/>
+<area shape="rect" id="node15" href="$namespacerapidjson_1_1internal.html#a21de5a1527938da9b57c84699ce519e7" title=" " alt="" coords="645,397,789,439"/>
+<area shape="rect" id="node17" href="$structrapidjson_1_1internal_1_1_diy_fp.html#aa20a0598c891880ee34e8dca914f0117" title=" " alt="" coords="655,463,780,504"/>
+<area shape="rect" id="node19" href="$structrapidjson_1_1internal_1_1_diy_fp.html#ae41b272b0beb25d936c5d79bd5fde310" title=" " alt="" coords="656,528,779,569"/>
+<area shape="rect" id="node16" href="$namespacerapidjson_1_1internal.html#a25a77e349cce869daae13c1bdd058d4a" title=" " alt="" coords="842,397,1018,439"/>
+<area shape="rect" id="node18" href="$namespacerapidjson_1_1internal.html#a38324bed779bdf6a285676fc7d4f73b0" title=" " alt="" coords="869,463,991,504"/>
+<area shape="rect" id="node21" href="$namespacerapidjson_1_1internal.html#aadfc08b386baffa85f618e0ef0e2f188" title=" " alt="" coords="656,645,779,687"/>
+<area shape="rect" id="node22" href="$namespacerapidjson_1_1internal.html#aba2871b1440237f69acb5ae602407bf9" title="Computes integer powers of 10 in double (10.0^n)." alt="" coords="869,616,991,657"/>
+</map>

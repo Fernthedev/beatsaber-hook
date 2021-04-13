@@ -1,0 +1,4 @@
+<map id="LoggerContextObject::WithContext" name="LoggerContextObject::WithContext">
+<area shape="rect" id="node1" title="Enter a new context. This call forwards to logger.WithContext(this, ctx). Avoid entering contexts wit..." alt="" coords="5,5,149,47"/>
+<area shape="rect" id="node2" href="$class_logger.html#a3cbec80682219dbcc7cfbf752804de87" title="Enters a logging context. Should be used for more specific logging information. Avoid entering contex..." alt="" coords="197,13,336,39"/>
+</map>

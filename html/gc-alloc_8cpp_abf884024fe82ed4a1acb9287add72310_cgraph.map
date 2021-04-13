@@ -1,0 +1,5 @@
+<map id="gc_realloc_specific" name="gc_realloc_specific">
+<area shape="rect" id="node1" title="Reallocation implementation is equivalent to: alloc + free." alt="" coords="5,31,137,57"/>
+<area shape="rect" id="node2" href="$gc-alloc_8cpp.html#af71f76467e5feeae327689fa0ace667c" title="Returns an allocated instance of the provided size that will not be written over by future GC allocat..." alt="" coords="185,5,307,32"/>
+<area shape="rect" id="node3" href="$gc-alloc_8cpp.html#aa85f5ef28679fe413d478b46534972b3" title="Deletes the provided allocated instance from the gc_alloc_specific function defined here...." alt="" coords="188,56,304,83"/>
+</map>

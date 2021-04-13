@@ -1,0 +1,12 @@
+<map id="Employee" name="Employee">
+<area shape="rect" id="node1" title=" " alt="" coords="159,453,238,480"/>
+<area shape="rect" id="node2" href="$class_person.html" title=" " alt="" coords="59,185,122,212"/>
+<area shape="rect" id="node7" href="$class_dependent.html" title=" " alt="" coords="150,275,234,301"/>
+<area shape="rect" id="node3" title=" " alt="" coords="115,96,194,123"/>
+<area shape="rect" id="node8" href="$class_education.html" title=" " alt="" coords="153,185,231,212"/>
+<area shape="rect" id="node4" title=" " alt="" coords="93,5,217,47"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,96,80,123"/>
+<area shape="rect" id="node6" title=" " alt="" coords="115,364,282,391"/>
+<area shape="rect" id="node9" title=" " alt="" coords="229,96,289,123"/>
+<area shape="rect" id="node10" title=" " alt="" coords="306,364,353,391"/>
+</map>

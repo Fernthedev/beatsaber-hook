@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,163,56,190"/>
+<area shape="rect" id="node2" href="$classrapidjson_1_1_generic_reader.html#ab50019e0a715320f83b7610b83dcef8f" title="Get the position of last parsing error in input, 0 otherwise." alt="" coords="123,5,289,47"/>
+<area shape="rect" id="node3" href="$group___r_a_p_i_d_j_s_o_n___e_r_r_o_r_s.html#gae982013498511a0ef3c2a3d2069adb4f" title="Maps error code of parsing into error message." alt="" coords="114,71,298,98"/>
+<area shape="rect" id="node4" href="$classrapidjson_1_1_generic_reader.html#a042c621cf745c5ed3a6f5ff9418dd05e" title="Get the ParseErrorCode of last parsing." alt="" coords="123,123,289,164"/>
+<area shape="rect" id="node5" href="$classrapidjson_1_1_auto_u_t_f_input_stream.html#a3666311c98787d9ed61b9fed2f3ac983" title=" " alt="" coords="104,188,308,229"/>
+<area shape="rect" id="node6" href="$classrapidjson_1_1_auto_u_t_f_input_stream.html#a9934b27779fad9e36e6a85cbbaf21877" title=" " alt="" coords="104,253,308,295"/>
+<area shape="rect" id="node7" href="$classrapidjson_1_1_generic_reader.html#ac9c540b77de19661f6f45e04b9b0937b" title="Parse JSON text." alt="" coords="123,319,289,360"/>
+</map>

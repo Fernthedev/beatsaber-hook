@@ -1,0 +1,6 @@
+<map id="Counter::remove" name="Counter::remove">
+<area shape="rect" id="node1" title="Decreases the reference count of an address. If the address has 1 or fewer references,..." alt="" coords="445,31,561,57"/>
+<area shape="rect" id="node2" href="$struct_count_pointer.html#aa93f322768080b286c66d3154644b191" title="Emplaces a new pointer into the shared pointer, decreasing the existing ref count as necessary." alt="" coords="229,5,381,32"/>
+<area shape="rect" id="node4" href="$struct_count_pointer.html#a57619d94906ba5ef4a8b87452b4bbd93" title="Destructor, decreases the ref count for the held non&#45;null pointer." alt="" coords="212,56,397,83"/>
+<area shape="rect" id="node3" href="$struct_count_pointer.html#aa97e21cbe33af9e3cda8d9b5538fc9cf" title="Assignment operator." alt="" coords="5,5,164,32"/>
+</map>

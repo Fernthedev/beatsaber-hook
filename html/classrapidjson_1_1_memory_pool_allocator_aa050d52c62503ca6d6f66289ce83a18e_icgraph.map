@@ -1,0 +1,4 @@
+<map id="rapidjson::MemoryPoolAllocator::Clear" name="rapidjson::MemoryPoolAllocator::Clear">
+<area shape="rect" id="node1" title="Deallocates all memory chunks, excluding the user&#45;supplied buffer." alt="" coords="124,5,327,47"/>
+<area shape="rect" id="node2" href="$perftest_2schematest_8cpp.html#a2c5e22c20fbad50bc8a47803b79d552e" title=" " alt="" coords="5,13,76,39"/>
+</map>

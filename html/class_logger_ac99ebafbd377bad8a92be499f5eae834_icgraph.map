@@ -1,0 +1,5 @@
+<map id="Logger::closeAll" name="Logger::closeAll">
+<area shape="rect" id="node1" title="Close all open LoggerBuffer objects. Should only be called on a crash or exit of the game." alt="" coords="201,31,316,57"/>
+<area shape="rect" id="node2" href="$il2cpp-functions_8cpp.html#a96737858208c2db92dea15759a035519" title=" " alt="" coords="5,5,153,32"/>
+<area shape="rect" id="node3" href="$utils_8cpp.html#a05888d9eee86a8d43c67f4fd1678dc9f" title=" " alt="" coords="40,56,119,83"/>
+</map>

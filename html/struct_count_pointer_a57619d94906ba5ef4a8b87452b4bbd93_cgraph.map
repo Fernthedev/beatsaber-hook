@@ -1,0 +1,4 @@
+<map id="CountPointer::~CountPointer" name="CountPointer::~CountPointer">
+<area shape="rect" id="node1" title="Destructor, decreases the ref count for the held non&#45;null pointer." alt="" coords="5,5,191,32"/>
+<area shape="rect" id="node2" href="$struct_counter.html#a251b8924dbb5da8cd684068b153cd39f" title="Decreases the reference count of an address. If the address has 1 or fewer references,..." alt="" coords="239,5,355,32"/>
+</map>
