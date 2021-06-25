@@ -2,12 +2,12 @@
 <area shape="rect" id="node1" title=" " alt="" coords="5,296,205,323"/>
 <area shape="rect" id="node2" href="$class_logger_context_object.html#ac8b10f046e58ab54da93842fa8b8e7fc" title=" " alt="" coords="253,133,397,174"/>
 <area shape="rect" id="node11" href="$class_logger.html#a9b12ce53593be134b7d7dea62607d22d" title="Returns the logger that is used within the utils library. This function should not be used outside of..." alt="" coords="989,227,1076,253"/>
-<area shape="rect" id="node21" href="$class_instruction.html#a385da26eb86335053f5821e92ab40784" title=" " alt="" coords="258,296,393,323"/>
-<area shape="rect" id="node22" href="$class_logger.html#a3cbec80682219dbcc7cfbf752804de87" title="Enters a logging context. Should be used for more specific logging information. Avoid entering contex..." alt="" coords="445,384,584,411"/>
-<area shape="rect" id="node23" href="$class_logger_context_object.html#aebe2fed2d941871c6100304721f9d11a" title="Enter a new context. This call forwards to logger.WithContext(this, ctx). Avoid entering contexts wit..." alt="" coords="253,347,397,389"/>
+<area shape="rect" id="node20" href="$class_instruction.html#a385da26eb86335053f5821e92ab40784" title=" " alt="" coords="258,296,393,323"/>
+<area shape="rect" id="node21" href="$class_logger.html#a3cbec80682219dbcc7cfbf752804de87" title="Enters a logging context. Should be used for more specific logging information. Avoid entering contex..." alt="" coords="445,376,584,403"/>
+<area shape="rect" id="node22" href="$class_logger_context_object.html#aebe2fed2d941871c6100304721f9d11a" title="Enter a new context. This call forwards to logger.WithContext(this, ctx). Avoid entering contexts wit..." alt="" coords="253,398,397,439"/>
 <area shape="rect" id="node3" href="$class_logger.html#a0fc18e7593c9a7e107b1359f98db015a" title=" " alt="" coords="461,119,568,145"/>
 <area shape="rect" id="node4" href="$class_logger.html#a4884b867316482dc0abcad2316389c74" title=" " alt="" coords="632,119,717,145"/>
-<area shape="rect" id="node18" href="$utils-functions_8h.html#afe043b752b389dd99b377718edb773ee" title=" " alt="" coords="1927,93,2025,120"/>
+<area shape="rect" id="node17" href="$utils-functions_8h.html#afe043b752b389dd99b377718edb773ee" title=" " alt="" coords="1885,103,1984,129"/>
 <area shape="rect" id="node5" href="$class_logger_buffer.html#a12f5306d893615c098b74e48b023fc3a" title=" " alt="" coords="765,93,941,120"/>
 <area shape="rect" id="node6" href="$logging_8cpp.html#ae4e9cf3e5cbdfdc90e03f69ec379edbf" title=" " alt="" coords="1314,112,1395,139"/>
 <area shape="rect" id="node9" href="$logging_8cpp.html#a1f6e54ec2057142850e6e01fd47056f8" title=" " alt="" coords="816,43,891,69"/>
@@ -18,8 +18,7 @@
 <area shape="rect" id="node13" href="$class_logger.html#a8c1717c69feeb9b1f1351c41cfb070a4" title=" " alt="" coords="1280,201,1429,228"/>
 <area shape="rect" id="node14" href="$class_logger.html#aa1125edb0f30d67a49280ef6a0a0cbb1" title="Initialize this logger. Deletes existing file logs. This happens on default when this instance is con..." alt="" coords="1312,252,1397,279"/>
 <area shape="rect" id="node15" href="$utils_8cpp.html#a1e841bf7e2b0e2645ec1ffdfaf5482b5" title=" " alt="" coords="1518,315,1589,341"/>
-<area shape="rect" id="node16" href="$class_logger_buffer.html#ab49a23b71ea99af421ccf38cfcf5c692" title=" " alt="" coords="1677,264,1837,291"/>
-<area shape="rect" id="node19" href="$class_logger_buffer.html#ad5de4ff68cf061228a7ed30a29900f12" title=" " alt="" coords="1477,365,1629,392"/>
-<area shape="rect" id="node20" href="$utils_8cpp.html#ae98eed90855269dacc30437d6f4220c7" title=" " alt="" coords="1521,213,1586,240"/>
-<area shape="rect" id="node17" href="$class_modloader.html#ada7d5b238b69e39d4f0e67828a1774f6" title=" " alt="" coords="1885,264,2067,291"/>
+<area shape="rect" id="node16" href="$class_logger_buffer.html#ab49a23b71ea99af421ccf38cfcf5c692" title=" " alt="" coords="1677,213,1837,240"/>
+<area shape="rect" id="node18" href="$class_logger_buffer.html#ad5de4ff68cf061228a7ed30a29900f12" title=" " alt="" coords="1477,264,1629,291"/>
+<area shape="rect" id="node19" href="$utils_8cpp.html#ae98eed90855269dacc30437d6f4220c7" title=" " alt="" coords="1521,365,1586,392"/>
 </map>

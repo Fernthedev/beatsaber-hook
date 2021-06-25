@@ -9,7 +9,7 @@ var indexSectionsWithContent =
   6: "abcdefghijlmnoprstuvw",
   7: "bcehijlopstuw",
   8: "abcdefhijklmnprstuw",
-  9: "gimos",
+  9: "gios",
   10: "_abcdeghilmnoprstuvwz",
   11: "r",
   12: "cdefijnprst内常性教流特编"

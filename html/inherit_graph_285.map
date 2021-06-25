@@ -1,3 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structrapidjson_1_1_transcoder_3_01_encoding_00_01_encoding_01_4.html" title="Specialization of Transcoder with same source and target encoding." alt="" coords="5,5,163,47"/>
+<area shape="rect" id="node1" href="$structrapidjson_1_1_u_t_f16.html" title=" " alt="" coords="5,111,193,138"/>
+<area shape="rect" id="node2" href="$structrapidjson_1_1_u_t_f16_b_e.html" title=" " alt="" coords="241,5,379,47"/>
+<area shape="rect" id="node3" href="$structrapidjson_1_1_u_t_f16_l_e.html" title=" " alt="" coords="242,71,378,112"/>
+<area shape="rect" id="node4" href="$structrapidjson_1_1_u_t_f16_b_e.html" title="UTF&#45;16 big endian encoding." alt="" coords="241,136,379,177"/>
+<area shape="rect" id="node5" href="$structrapidjson_1_1_u_t_f16_l_e.html" title="UTF&#45;16 little endian encoding." alt="" coords="242,201,378,243"/>
 </map>

@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classrapidjson_1_1_generic_schema_document.html" title="JSON schema document." alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node1" href="$classrapidjson_1_1_generic_stream_wrapper.html" title=" " alt="" coords="5,5,172,61"/>
+<area shape="rect" id="node2" href="$classrapidjson_1_1_cursor_stream_wrapper.html" title="Cursor stream wrapper for counting line and column number if error exists." alt="" coords="220,13,428,54"/>
 </map>

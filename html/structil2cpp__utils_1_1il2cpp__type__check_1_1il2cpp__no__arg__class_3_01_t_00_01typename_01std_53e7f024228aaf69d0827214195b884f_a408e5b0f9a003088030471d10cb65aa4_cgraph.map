@@ -1,52 +1,52 @@
 <map id="il2cpp_utils::il2cpp_type_check::il2cpp_no_arg_class&lt; T, typename std::enable_if_t&lt; std::is_base_of_v&lt; NestedType, T &gt; &gt; &gt;::get" name="il2cpp_utils::il2cpp_type_check::il2cpp_no_arg_class&lt; T, typename std::enable_if_t&lt; std::is_base_of_v&lt; NestedType, T &gt; &gt; &gt;::get">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,189,131"/>
-<area shape="rect" id="node2" href="$classil2cpp__functions.html#ac881c337ba8a311f083374b9f8e4b4ba" title=" " alt="" coords="1881,672,2021,699"/>
-<area shape="rect" id="node41" href="$namespaceil2cpp__utils.html#ade974bcbe263585fbd0d3a0e8eb7367b" title=" " alt="" coords="237,144,408,171"/>
-<area shape="rect" id="node3" href="$instruction-parsing_8cpp.html#a87496c69670a8e89edca475a03a220b3" title=" " alt="" coords="2951,296,3037,323"/>
-<area shape="rect" id="node9" href="$class_logger_context_object.html#aebe2fed2d941871c6100304721f9d11a" title="Enter a new context. This call forwards to logger.WithContext(this, ctx). Avoid entering contexts wit..." alt="" coords="3139,417,3283,458"/>
-<area shape="rect" id="node10" href="$instruction-parsing_8cpp.html#a6f6851a7ff5b72b57805b1a1d66b6bc5" title=" " alt="" coords="2939,549,3049,576"/>
-<area shape="rect" id="node11" href="$il2cpp-functions_8cpp.html#aca83cc8d000b3394ae5ae3b6680bb867" title=" " alt="" coords="2076,671,2211,697"/>
-<area shape="rect" id="node19" href="$class_instruction.html#a759a79b2d013069c43c1d6ea4133fcce" title=" " alt="" coords="2522,701,2674,728"/>
-<area shape="rect" id="node20" href="$class_instruction.html#ae533504084430bf6da747d361e4127f6" title=" " alt="" coords="2740,955,2871,981"/>
-<area shape="rect" id="node22" href="$utils_8cpp.html#af4cae2a0439db7bf760981e35ba0ffaa" title=" " alt="" coords="2943,1139,3045,1165"/>
-<area shape="rect" id="node24" href="$class_modloader.html#aa70757fa8afc5616c0b25e9fd4bb440c" title=" " alt="" coords="3117,1189,3305,1216"/>
-<area shape="rect" id="node30" href="$classil2cpp__functions.html#a1602eb932af5ef329b743a298c291003" title=" " alt="" coords="2513,618,2683,659"/>
-<area shape="rect" id="node31" href="$il2cpp-functions_8cpp.html#a6f8fd5cf191430ede3223938db48b245" title=" " alt="" coords="2312,920,2409,947"/>
-<area shape="rect" id="node33" href="$il2cpp-functions_8cpp.html#af41826c80fd89cff6132ab8173d129b9" title=" " alt="" coords="2279,549,2442,576"/>
-<area shape="rect" id="node34" href="$class_instruction.html#ad18dd715c595b80395569b62f2a5d74f" title=" " alt="" coords="2516,905,2680,946"/>
-<area shape="rect" id="node35" href="$struct_hook_tracker.html#af430ae15200790d67ef77de7dcdf1f1e" title="Returns the original location of a function that may or may not be hooked. If the function is not hoo..." alt="" coords="2069,809,2217,836"/>
-<area shape="rect" id="node37" href="$class_logger_context_object.html#abc18b53239167d02033cf238369ac2b3" title=" " alt="" coords="2071,1073,2215,1114"/>
-<area shape="rect" id="node39" href="$class_instruction.html#a3e183c005820c76242910018927cc5d3" title=" " alt="" coords="2079,733,2207,760"/>
-<area shape="rect" id="node4" href="$class_logger.html#a9b12ce53593be134b7d7dea62607d22d" title="Returns the logger that is used within the utils library. This function should not be used outside of..." alt="" coords="3168,752,3255,779"/>
-<area shape="rect" id="node8" href="$class_logger.html#a3cbec80682219dbcc7cfbf752804de87" title="Enters a logging context. Should be used for more specific logging information. Avoid entering contex..." alt="" coords="3353,453,3492,480"/>
-<area shape="rect" id="node5" href="$class_logger.html#a69edb9dfe89b561281e694e9d93ce2c6" title=" " alt="" coords="3369,752,3477,779"/>
-<area shape="rect" id="node6" href="$class_logger.html#a8c1717c69feeb9b1f1351c41cfb070a4" title=" " alt="" coords="3540,727,3689,753"/>
-<area shape="rect" id="node7" href="$class_logger.html#aa1125edb0f30d67a49280ef6a0a0cbb1" title="Initialize this logger. Deletes existing file logs. This happens on default when this instance is con..." alt="" coords="3572,777,3657,804"/>
-<area shape="rect" id="node12" href="$il2cpp-functions_8cpp.html#adb4ba9ad2213592153f2ce2796efb03d" title=" " alt="" coords="2287,601,2435,642"/>
-<area shape="rect" id="node13" href="$utils_8cpp.html#af9250c92f0b015af93f2ec073dedf579" title="Attempts to match the pattern provided with all regions of mapped read memory with the libil2cpp...." alt="" coords="2504,803,2692,829"/>
-<area shape="rect" id="node18" href="$il2cpp-functions_8cpp.html#a913fa1774d1844cbbab60f7653030431" title=" " alt="" coords="2289,667,2433,693"/>
-<area shape="rect" id="node14" href="$utils_8cpp.html#a86af6e9b6fa2752ce7917310f0cbfeba" title=" " alt="" coords="2743,803,2868,829"/>
-<area shape="rect" id="node15" href="$class_logger.html#a709dff2a5c3b153ace3765b29b9d90c3" title=" " alt="" coords="2943,955,3045,981"/>
-<area shape="rect" id="node16" href="$class_logger.html#a4884b867316482dc0abcad2316389c74" title=" " alt="" coords="3169,1056,3254,1083"/>
-<area shape="rect" id="node17" href="$utils-functions_8h.html#afe043b752b389dd99b377718edb773ee" title=" " alt="" coords="3162,1005,3261,1032"/>
-<area shape="rect" id="node29" href="$class_instruction.html#a927b91509af6a6ac7c6ac139b9d87ec6" title=" " alt="" coords="2745,701,2866,728"/>
-<area shape="rect" id="node21" href="$class_logger.html#a5a6cca2115014337552f8cf26a9e9546" title=" " alt="" coords="2947,1005,3041,1032"/>
-<area shape="rect" id="node25" href="$class_instruction.html#ae45add06a7e03f6021ae4b5ec54ab419" title=" " alt="" coords="2919,904,3069,931"/>
-<area shape="rect" id="node23" href="$utils_8cpp.html#a88e5510d710f8f7527c1bf87e6c92b78" title=" " alt="" coords="3173,1139,3250,1165"/>
-<area shape="rect" id="node26" href="$instruction-parsing_8hpp.html#a29c04cbe8d7130bc79b45e50a31a3744" title=" " alt="" coords="3190,853,3233,880"/>
-<area shape="rect" id="node27" href="$instruction-parsing_8cpp.html#a3c3f75f6dc301e0a59bc96f72bdcb775" title=" " alt="" coords="3151,955,3272,981"/>
-<area shape="rect" id="node28" href="$instruction-parsing_8hpp.html#a7e39c076a09a18d4838d06551d6fbb1e" title=" " alt="" coords="3371,929,3474,956"/>
-<area shape="rect" id="node32" href="$class_instruction.html#af7531af76814d0acb6f334a7f74b52b3" title=" " alt="" coords="2507,853,2689,880"/>
-<area shape="rect" id="node36" href="$struct_hook_tracker.html#a367dd5c5e97f769132c0bdb9044a83e6" title=" " alt="" coords="2265,819,2456,845"/>
-<area shape="rect" id="node38" href="$class_logger.html#a7c6b5297b7500f23cc4f92b9bb55e6bd" title=" " alt="" coords="2949,1056,3039,1083"/>
-<area shape="rect" id="node40" href="$class_instruction.html#a68a53e80d4d3dd8382f47ad29cf516ce" title=" " alt="" coords="2274,768,2447,795"/>
-<area shape="rect" id="node42" href="$namespaceil2cpp__utils.html#abe160232ddbb00a777f8c7b4dd54bd55" title=" " alt="" coords="1147,405,1360,432"/>
-<area shape="rect" id="node44" href="$namespaceil2cpp__utils.html#a160ebfda2d0bfeb933223c7588cee0ae" title=" " alt="" coords="1649,245,1800,272"/>
-<area shape="rect" id="node46" href="$namespaceil2cpp__utils.html#a8bc1d2f395efa97f33089756be1c70ef" title=" " alt="" coords="912,732,1099,759"/>
-<area shape="rect" id="node47" href="$namespaceil2cpp__utils.html#a64480d603679c83e82ac8b5f82ecb07f" title=" " alt="" coords="456,292,655,319"/>
-<area shape="rect" id="node43" href="$namespaceil2cpp__utils.html#a36039a6cef493f8c2bd4cdb307a838ed" title=" " alt="" coords="1408,398,1568,439"/>
-<area shape="rect" id="node45" href="$namespaceil2cpp__utils.html#ac02a68ca24773a3002921f2656ba05b3" title=" " alt="" coords="1616,409,1833,436"/>
-<area shape="rect" id="node48" href="$namespaceil2cpp__utils.html#a82053c24477b10ae4e6e320f25331da2" title=" " alt="" coords="1171,667,1335,709"/>
-<area shape="rect" id="node49" href="$namespaceil2cpp__utils.html#aea8874b320870b57debb93f1a0ceea42" title=" " alt="" coords="703,365,864,406"/>
-<area shape="rect" id="node50" href="$namespaceil2cpp__utils.html#a9780c91466501ec82e542a0382ddee3f" title=" " alt="" coords="923,565,1088,592"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,622,189,722"/>
+<area shape="rect" id="node2" href="$classil2cpp__functions.html#ac881c337ba8a311f083374b9f8e4b4ba" title=" " alt="" coords="1881,667,2021,693"/>
+<area shape="rect" id="node41" href="$namespaceil2cpp__utils.html#ade974bcbe263585fbd0d3a0e8eb7367b" title=" " alt="" coords="237,499,408,525"/>
+<area shape="rect" id="node3" href="$instruction-parsing_8cpp.html#a87496c69670a8e89edca475a03a220b3" title=" " alt="" coords="2951,449,3037,476"/>
+<area shape="rect" id="node9" href="$class_logger_context_object.html#aebe2fed2d941871c6100304721f9d11a" title="Enter a new context. This call forwards to logger.WithContext(this, ctx). Avoid entering contexts wit..." alt="" coords="3117,315,3261,357"/>
+<area shape="rect" id="node10" href="$instruction-parsing_8cpp.html#a6f6851a7ff5b72b57805b1a1d66b6bc5" title=" " alt="" coords="2939,500,3049,527"/>
+<area shape="rect" id="node11" href="$il2cpp-functions_8cpp.html#aca83cc8d000b3394ae5ae3b6680bb867" title=" " alt="" coords="2076,716,2211,743"/>
+<area shape="rect" id="node20" href="$class_instruction.html#a759a79b2d013069c43c1d6ea4133fcce" title=" " alt="" coords="2522,703,2674,729"/>
+<area shape="rect" id="node21" href="$class_instruction.html#ae533504084430bf6da747d361e4127f6" title=" " alt="" coords="2740,921,2871,948"/>
+<area shape="rect" id="node23" href="$utils_8cpp.html#af4cae2a0439db7bf760981e35ba0ffaa" title=" " alt="" coords="2943,1065,3045,1092"/>
+<area shape="rect" id="node30" href="$classil2cpp__functions.html#a1602eb932af5ef329b743a298c291003" title=" " alt="" coords="2513,637,2683,678"/>
+<area shape="rect" id="node31" href="$il2cpp-functions_8cpp.html#a6f8fd5cf191430ede3223938db48b245" title=" " alt="" coords="2312,905,2409,932"/>
+<area shape="rect" id="node33" href="$il2cpp-functions_8cpp.html#af41826c80fd89cff6132ab8173d129b9" title=" " alt="" coords="2279,636,2442,663"/>
+<area shape="rect" id="node34" href="$class_instruction.html#ad18dd715c595b80395569b62f2a5d74f" title=" " alt="" coords="2516,855,2680,897"/>
+<area shape="rect" id="node35" href="$struct_hook_tracker.html#af430ae15200790d67ef77de7dcdf1f1e" title="Returns the original location of a function that may or may not be hooked. If the function is not hoo..." alt="" coords="2069,1175,2217,1201"/>
+<area shape="rect" id="node37" href="$class_logger_context_object.html#abc18b53239167d02033cf238369ac2b3" title=" " alt="" coords="2071,347,2215,389"/>
+<area shape="rect" id="node39" href="$class_instruction.html#a3e183c005820c76242910018927cc5d3" title=" " alt="" coords="2079,1124,2207,1151"/>
+<area shape="rect" id="node4" href="$class_logger.html#a9b12ce53593be134b7d7dea62607d22d" title="Returns the logger that is used within the utils library. This function should not be used outside of..." alt="" coords="3146,652,3233,679"/>
+<area shape="rect" id="node8" href="$class_logger.html#a3cbec80682219dbcc7cfbf752804de87" title="Enters a logging context. Should be used for more specific logging information. Avoid entering contex..." alt="" coords="3309,475,3448,501"/>
+<area shape="rect" id="node5" href="$class_logger.html#a69edb9dfe89b561281e694e9d93ce2c6" title=" " alt="" coords="3325,652,3433,679"/>
+<area shape="rect" id="node6" href="$class_logger.html#a8c1717c69feeb9b1f1351c41cfb070a4" title=" " alt="" coords="3496,627,3645,653"/>
+<area shape="rect" id="node7" href="$class_logger.html#aa1125edb0f30d67a49280ef6a0a0cbb1" title="Initialize this logger. Deletes existing file logs. This happens on default when this instance is con..." alt="" coords="3528,677,3613,704"/>
+<area shape="rect" id="node12" href="$il2cpp-functions_8cpp.html#adb4ba9ad2213592153f2ce2796efb03d" title=" " alt="" coords="2287,738,2435,779"/>
+<area shape="rect" id="node13" href="$utils_8cpp.html#af9250c92f0b015af93f2ec073dedf579" title="Attempts to match the pattern provided with all regions of mapped read memory with the libil2cpp...." alt="" coords="2504,804,2692,831"/>
+<area shape="rect" id="node19" href="$il2cpp-functions_8cpp.html#a913fa1774d1844cbbab60f7653030431" title=" " alt="" coords="2289,687,2433,713"/>
+<area shape="rect" id="node14" href="$utils_8cpp.html#a86af6e9b6fa2752ce7917310f0cbfeba" title=" " alt="" coords="2743,837,2868,864"/>
+<area shape="rect" id="node15" href="$class_logger.html#a709dff2a5c3b153ace3765b29b9d90c3" title=" " alt="" coords="2943,956,3045,983"/>
+<area shape="rect" id="node18" href="$utils_8cpp.html#a8e03263ec28eb2aef7d1ad06e827525b" title=" " alt="" coords="2952,905,3036,932"/>
+<area shape="rect" id="node16" href="$class_logger.html#a4884b867316482dc0abcad2316389c74" title=" " alt="" coords="3147,981,3232,1008"/>
+<area shape="rect" id="node17" href="$utils-functions_8h.html#afe043b752b389dd99b377718edb773ee" title=" " alt="" coords="3140,931,3239,957"/>
+<area shape="rect" id="node29" href="$class_instruction.html#a927b91509af6a6ac7c6ac139b9d87ec6" title=" " alt="" coords="2745,703,2866,729"/>
+<area shape="rect" id="node22" href="$class_logger.html#a5a6cca2115014337552f8cf26a9e9546" title=" " alt="" coords="2947,1007,3041,1033"/>
+<area shape="rect" id="node25" href="$class_instruction.html#ae45add06a7e03f6021ae4b5ec54ab419" title=" " alt="" coords="2919,804,3069,831"/>
+<area shape="rect" id="node24" href="$utils_8cpp.html#a88e5510d710f8f7527c1bf87e6c92b78" title=" " alt="" coords="3151,1065,3228,1092"/>
+<area shape="rect" id="node26" href="$instruction-parsing_8hpp.html#a29c04cbe8d7130bc79b45e50a31a3744" title=" " alt="" coords="3168,753,3211,780"/>
+<area shape="rect" id="node27" href="$instruction-parsing_8cpp.html#a3c3f75f6dc301e0a59bc96f72bdcb775" title=" " alt="" coords="3129,855,3250,881"/>
+<area shape="rect" id="node28" href="$instruction-parsing_8hpp.html#a7e39c076a09a18d4838d06551d6fbb1e" title=" " alt="" coords="3327,829,3430,856"/>
+<area shape="rect" id="node32" href="$class_instruction.html#af7531af76814d0acb6f334a7f74b52b3" title=" " alt="" coords="2507,972,2689,999"/>
+<area shape="rect" id="node36" href="$struct_hook_tracker.html#a367dd5c5e97f769132c0bdb9044a83e6" title=" " alt="" coords="2265,1175,2456,1201"/>
+<area shape="rect" id="node38" href="$class_logger.html#a7c6b5297b7500f23cc4f92b9bb55e6bd" title=" " alt="" coords="2949,855,3039,881"/>
+<area shape="rect" id="node40" href="$class_instruction.html#a68a53e80d4d3dd8382f47ad29cf516ce" title=" " alt="" coords="2274,1124,2447,1151"/>
+<area shape="rect" id="node42" href="$namespaceil2cpp__utils.html#abe160232ddbb00a777f8c7b4dd54bd55" title=" " alt="" coords="1147,448,1360,475"/>
+<area shape="rect" id="node44" href="$namespaceil2cpp__utils.html#a160ebfda2d0bfeb933223c7588cee0ae" title=" " alt="" coords="1649,183,1800,209"/>
+<area shape="rect" id="node46" href="$namespaceil2cpp__utils.html#a8bc1d2f395efa97f33089756be1c70ef" title=" " alt="" coords="912,768,1099,795"/>
+<area shape="rect" id="node47" href="$namespaceil2cpp__utils.html#a64480d603679c83e82ac8b5f82ecb07f" title=" " alt="" coords="456,435,655,461"/>
+<area shape="rect" id="node43" href="$namespaceil2cpp__utils.html#a36039a6cef493f8c2bd4cdb307a838ed" title=" " alt="" coords="1408,331,1568,373"/>
+<area shape="rect" id="node45" href="$namespaceil2cpp__utils.html#ac02a68ca24773a3002921f2656ba05b3" title=" " alt="" coords="1616,397,1833,424"/>
+<area shape="rect" id="node48" href="$namespaceil2cpp__utils.html#a82053c24477b10ae4e6e320f25331da2" title=" " alt="" coords="1171,601,1335,642"/>
+<area shape="rect" id="node49" href="$namespaceil2cpp__utils.html#aea8874b320870b57debb93f1a0ceea42" title=" " alt="" coords="703,402,864,443"/>
+<area shape="rect" id="node50" href="$namespaceil2cpp__utils.html#a9780c91466501ec82e542a0382ddee3f" title=" " alt="" coords="923,549,1088,576"/>
 </map>

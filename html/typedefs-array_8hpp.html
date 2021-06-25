@@ -66,12 +66,17 @@ $(function() {
 </div><!-- top -->
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Data Structures</a>  </div>
+<a href="#nested-classes">Data Structures</a> &#124;
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
   <div class="headertitle">
 <div class="title">typedefs-array.hpp File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="utils_8h_source.html">utils.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &lt;optional&gt;</code><br />
+<code>#include &lt;vector&gt;</code><br />
+<code>#include &lt;span&gt;</code><br />
+<code>#include &quot;<a class="el" href="utils_8h_source.html">utils.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="il2cpp-utils-methods_8hpp_source.html">il2cpp-utils-methods.hpp</a>&quot;</code><br />
 <code>#include &lt;initializer_list&gt;</code><br />
 </div><div class="textblock"><div class="dynheader">
@@ -79,44 +84,44 @@ Include dependency graph for typedefs-array.hpp:</div>
 <div class="dyncontent">
 <div class="center"><img src="typedefs-array_8hpp__incl.png" border="0" usemap="#ashared_2utils_2typedefs-array_8hpp" alt=""/></div>
 <map name="ashared_2utils_2typedefs-array_8hpp" id="ashared_2utils_2typedefs-array_8hpp">
-<area shape="rect" title=" " alt="" coords="1673,5,1815,47"/>
-<area shape="rect" href="utils_8h.html" title=" " alt="" coords="1345,319,1401,345"/>
-<area shape="rect" href="il2cpp-utils-methods_8hpp.html" title=" " alt="" coords="1021,95,1184,121"/>
-<area shape="rect" title=" " alt="" coords="1781,95,1877,121"/>
-<area shape="rect" title=" " alt="" coords="1638,401,1706,427"/>
-<area shape="rect" title=" " alt="" coords="1757,483,1816,509"/>
-<area shape="rect" title=" " alt="" coords="1305,401,1372,427"/>
-<area shape="rect" href="hook-tracker_8hpp.html" title=" " alt="" coords="1839,483,1958,509"/>
-<area shape="rect" href="utils-functions_8h.html" title=" " alt="" coords="246,483,359,509"/>
-<area shape="rect" href="_and64_inline_hook_8hpp.html" title=" " alt="" coords="1447,393,1614,435"/>
-<area shape="rect" href="logging_8hpp.html" title=" " alt="" coords="1061,401,1147,427"/>
-<area shape="rect" title=" " alt="" coords="1673,557,1761,584"/>
-<area shape="rect" title=" " alt="" coords="1591,557,1646,584"/>
-<area shape="rect" title=" " alt="" coords="2153,557,2191,584"/>
-<area shape="rect" title=" " alt="" coords="630,557,741,584"/>
-<area shape="rect" title=" " alt="" coords="273,557,333,584"/>
-<area shape="rect" title=" " alt="" coords="155,557,218,584"/>
-<area shape="rect" title=" " alt="" coords="64,557,123,584"/>
-<area shape="rect" title=" " alt="" coords="723,483,818,509"/>
-<area shape="rect" title=" " alt="" coords="843,483,917,509"/>
-<area shape="rect" title=" " alt="" coords="942,483,1002,509"/>
-<area shape="rect" title=" " alt="" coords="1027,483,1099,509"/>
-<area shape="rect" title=" " alt="" coords="1123,483,1189,509"/>
-<area shape="rect" title=" " alt="" coords="1213,483,1272,509"/>
-<area shape="rect" title=" " alt="" coords="1296,483,1371,509"/>
-<area shape="rect" title=" " alt="" coords="1395,483,1453,509"/>
-<area shape="rect" href="modloader_8hpp.html" title=" " alt="" coords="435,483,648,509"/>
-<area shape="rect" title=" " alt="" coords="1477,483,1581,509"/>
-<area shape="rect" title=" " alt="" coords="507,557,575,584"/>
-<area shape="rect" href="il2cpp-functions_8hpp.html" title=" " alt="" coords="575,319,713,345"/>
-<area shape="rect" href="il2cpp-utils-exceptions_8hpp.html" title=" " alt="" coords="1982,483,2157,509"/>
-<area shape="rect" href="il2cpp-utils-classes_8hpp.html" title=" " alt="" coords="965,169,1123,196"/>
-<area shape="rect" title=" " alt="" coords="145,401,210,427"/>
-<area shape="rect" title=" " alt="" coords="235,401,357,427"/>
-<area shape="rect" title=" " alt="" coords="382,401,506,427"/>
-<area shape="rect" title=" " alt="" coords="529,401,684,427"/>
-<area shape="rect" title=" " alt="" coords="2031,557,2108,584"/>
-<area shape="rect" href="il2cpp-type-check_8hpp.html" title=" " alt="" coords="976,244,1123,271"/>
+<area shape="rect" title=" " alt="" coords="1969,5,2111,47"/>
+<area shape="rect" title=" " alt="" coords="2467,401,2533,427"/>
+<area shape="rect" title=" " alt="" coords="77,557,136,584"/>
+<area shape="rect" title=" " alt="" coords="1984,95,2035,121"/>
+<area shape="rect" href="utils_8h.html" title=" " alt="" coords="2044,319,2100,345"/>
+<area shape="rect" href="il2cpp-utils-methods_8hpp.html" title=" " alt="" coords="1641,95,1804,121"/>
+<area shape="rect" title=" " alt="" coords="2597,95,2693,121"/>
+<area shape="rect" title=" " alt="" coords="2179,401,2247,427"/>
+<area shape="rect" title=" " alt="" coords="2372,483,2431,509"/>
+<area shape="rect" href="hook-tracker_8hpp.html" title=" " alt="" coords="2323,401,2442,427"/>
+<area shape="rect" href="utils-functions_8h.html" title=" " alt="" coords="2133,483,2246,509"/>
+<area shape="rect" href="_and64_inline_hook_8hpp.html" title=" " alt="" coords="1989,393,2155,435"/>
+<area shape="rect" href="logging_8hpp.html" title=" " alt="" coords="1737,401,1823,427"/>
+<area shape="rect" title=" " alt="" coords="2240,557,2328,584"/>
+<area shape="rect" title=" " alt="" coords="2521,557,2575,584"/>
+<area shape="rect" title=" " alt="" coords="2454,483,2493,509"/>
+<area shape="rect" title=" " alt="" coords="2517,483,2627,509"/>
+<area shape="rect" title=" " alt="" coords="843,557,903,584"/>
+<area shape="rect" title=" " alt="" coords="1663,557,1726,584"/>
+<area shape="rect" title=" " alt="" coords="1733,483,1827,509"/>
+<area shape="rect" title=" " alt="" coords="1852,483,1927,509"/>
+<area shape="rect" title=" " alt="" coords="1951,483,2011,509"/>
+<area shape="rect" title=" " alt="" coords="2036,483,2108,509"/>
+<area shape="rect" title=" " alt="" coords="961,483,1028,509"/>
+<area shape="rect" title=" " alt="" coords="1052,483,1111,509"/>
+<area shape="rect" title=" " alt="" coords="1135,483,1209,509"/>
+<area shape="rect" title=" " alt="" coords="1234,483,1291,509"/>
+<area shape="rect" title=" " alt="" coords="1316,483,1529,509"/>
+<area shape="rect" title=" " alt="" coords="1553,483,1657,509"/>
+<area shape="rect" href="il2cpp-functions_8hpp.html" title=" " alt="" coords="599,319,737,345"/>
+<area shape="rect" href="il2cpp-utils-exceptions_8hpp.html" title=" " alt="" coords="2754,483,2929,509"/>
+<area shape="rect" href="il2cpp-utils-classes_8hpp.html" title=" " alt="" coords="1585,169,1743,196"/>
+<area shape="rect" title=" " alt="" coords="322,401,387,427"/>
+<area shape="rect" title=" " alt="" coords="412,401,535,427"/>
+<area shape="rect" title=" " alt="" coords="559,401,683,427"/>
+<area shape="rect" title=" " alt="" coords="144,401,299,427"/>
+<area shape="rect" title=" " alt="" coords="2803,557,2880,584"/>
+<area shape="rect" href="il2cpp-type-check_8hpp.html" title=" " alt="" coords="851,244,997,271"/>
 </map>
 </div>
 </div><div class="textblock"><div class="dynheader">
@@ -142,11 +147,115 @@ This graph shows which files directly or indirectly include this file:</div>
 Data Structures</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_array.html">Array&lt; T &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a937eb567915c5e07b0623894add4bdcd"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a937eb567915c5e07b0623894add4bdcd"><td class="memTemplItemLeft" align="right" valign="top">&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="typedefs-array_8hpp.html#a937eb567915c5e07b0623894add4bdcd">requires</a> (!std::is_reference_v&lt; <a class="el" href="writertest_8cpp.html#a16a0f7e7053a679c9bf4289b441a2be7">T</a> &gt;) struct WrapperRef</td></tr>
+<tr class="memdesc:a937eb567915c5e07b0623894add4bdcd"><td class="mdescLeft">&#160;</td><td class="mdescRight">A std::wrapper_reference implementation that perfect forwards to contained assignment operators.  <a href="typedefs-array_8hpp.html#a937eb567915c5e07b0623894add4bdcd">More...</a><br /></td></tr>
+<tr class="separator:a937eb567915c5e07b0623894add4bdcd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:ae3262af5da3ef0b19d93a6e948e68c88"><td class="memTemplParams" colspan="2">template&lt;class T , class U &gt; </td></tr>
+<tr class="memitem:ae3262af5da3ef0b19d93a6e948e68c88"><td class="memTemplItemLeft" align="right" valign="top">concept&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="typedefs-array_8hpp.html#ae3262af5da3ef0b19d93a6e948e68c88">has_assignment</a></td></tr>
+<tr class="memdesc:ae3262af5da3ef0b19d93a6e948e68c88"><td class="mdescLeft">&#160;</td><td class="mdescRight">If type T can be assigned to by type U&amp;&amp;.  <a href="typedefs-array_8hpp.html#ae3262af5da3ef0b19d93a6e948e68c88">More...</a><br /></td></tr>
+<tr class="separator:ae3262af5da3ef0b19d93a6e948e68c88"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a937eb567915c5e07b0623894add4bdcd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a937eb567915c5e07b0623894add4bdcd">&#9670;&nbsp;</a></span>requires()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">requires </td>
+          <td>(</td>
+          <td class="paramtype">!std::is_reference_v&lt; <a class="el" href="writertest_8cpp.html#a16a0f7e7053a679c9bf4289b441a2be7">T</a> &gt;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>A std::wrapper_reference implementation that perfect forwards to contained assignment operators. </p>
+<p>Explicitly create a wrapper reference from a reference who MUST LIVE LONGER THAN THIS INSTANCE!</p>
+
+<p class="definition">Definition at line <a class="el" href="typedefs-array_8hpp_source.html#l00023">23</a> of file <a class="el" href="typedefs-array_8hpp_source.html">typedefs-array.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;                  {</div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;    <span class="keyword">explicit</span> constexpr WrapperRef(<a class="code" href="prettywritertest_8cpp.html#a6283df8c4e365cc8a01727e2d7ad44bf">T</a>&amp; <a class="code" href="namespaceil2cpp__utils.html#a20e66b3c3f9d71c391040599a12aba1e">instance</a>) : ptr(std::addressof(<a class="code" href="namespaceil2cpp__utils.html#a20e66b3c3f9d71c391040599a12aba1e">instance</a>)) {}</div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;    <span class="comment">// Assignment for any U type that is valid to be assigned.</span></div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;    <span class="keyword">template</span>&lt;<span class="keyword">class</span> U&gt;</div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;    <a class="code" href="typedefs-array_8hpp.html#a937eb567915c5e07b0623894add4bdcd">requires</a> (has_assignment&lt;T, U&gt;)</div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;    WrapperRef&amp; operator=(U&amp;&amp; other) {</div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;        *ptr = other;</div>
+<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;    }</div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;    <span class="comment">// Standard Assignment</span></div>
+<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;    WrapperRef&amp; operator=(<span class="keyword">const</span> WrapperRef&amp; x) noexcept = <span class="keywordflow">default</span>;</div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;    <span class="comment">// Getter operation, implicit conversion</span></div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;    constexpr <span class="keyword">operator</span> <a class="code" href="prettywritertest_8cpp.html#a6283df8c4e365cc8a01727e2d7ad44bf">T</a>&amp; () <span class="keyword">const</span> noexcept {</div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;        <span class="keywordflow">return</span> *ptr;</div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;    }</div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;    <span class="comment">// Getter operation, explicit conversion</span></div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;    constexpr <a class="code" href="prettywritertest_8cpp.html#a6283df8c4e365cc8a01727e2d7ad44bf">T</a>&amp; get() const noexcept {</div>
+<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;        <span class="keywordflow">return</span> *ptr;</div>
+<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;    }</div>
+<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;    <span class="comment">// Invoke operation</span></div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;    <span class="keyword">template</span>&lt;<span class="keyword">class</span>... ArgTypes&gt;</div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;    constexpr std::invoke_result_t&lt;<a class="code" href="prettywritertest_8cpp.html#a6283df8c4e365cc8a01727e2d7ad44bf">T</a>&amp;, ArgTypes...&gt; operator() (ArgTypes&amp;&amp;... <a class="code" href="namespaceil2cpp__utils.html#a1a4c88fb7e4ad7f7c98fa58438b32167">args</a>)<span class="keyword"> const </span>{</div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;        <span class="keywordflow">return</span> std::invoke(get(), std::forward&lt;ArgTypes&gt;(<a class="code" href="namespaceil2cpp__utils.html#a1a4c88fb7e4ad7f7c98fa58438b32167">args</a>)...);</div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;    }</div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;    <span class="keyword">private</span>:</div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;    <a class="code" href="prettywritertest_8cpp.html#a6283df8c4e365cc8a01727e2d7ad44bf">T</a>* ptr;</div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;};</div>
+<div class="ttc" id="anamespaceil2cpp__utils_html_a1a4c88fb7e4ad7f7c98fa58438b32167"><div class="ttname"><a href="namespaceil2cpp__utils.html#a1a4c88fb7e4ad7f7c98fa58438b32167">il2cpp_utils::args</a></div><div class="ttdeci">R TArgs TArgs args</div><div class="ttdef"><b>Definition:</b> <a href="il2cpp-utils_8hpp_source.html#l00267">il2cpp-utils.hpp:267</a></div></div>
+<div class="ttc" id="anamespaceil2cpp__utils_html_a20e66b3c3f9d71c391040599a12aba1e"><div class="ttname"><a href="namespaceil2cpp__utils.html#a20e66b3c3f9d71c391040599a12aba1e">il2cpp_utils::instance</a></div><div class="ttdeci">R TArgs * instance</div><div class="ttdef"><b>Definition:</b> <a href="il2cpp-utils_8hpp_source.html#l00267">il2cpp-utils.hpp:267</a></div></div>
+<div class="ttc" id="aprettywritertest_8cpp_html_a6283df8c4e365cc8a01727e2d7ad44bf"><div class="ttname"><a href="prettywritertest_8cpp.html#a6283df8c4e365cc8a01727e2d7ad44bf">T</a></div><div class="ttdeci">#define T(meth, val, expected)</div></div>
+<div class="ttc" id="atypedefs-array_8hpp_html_a937eb567915c5e07b0623894add4bdcd"><div class="ttname"><a href="typedefs-array_8hpp.html#a937eb567915c5e07b0623894add4bdcd">requires</a></div><div class="ttdeci">requires(!std::is_reference_v&lt; T &gt;) struct WrapperRef</div><div class="ttdoc">A std::wrapper_reference implementation that perfect forwards to contained assignment operators.</div><div class="ttdef"><b>Definition:</b> <a href="typedefs-array_8hpp_source.html#l00023">typedefs-array.hpp:23</a></div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="il2cpp-utils_8hpp_source.html#l00267">il2cpp_utils::args</a>, <a class="el" href="il2cpp-utils_8hpp_source.html#l00267">il2cpp_utils::instance</a>, and <a class="el" href="prettywritertest_8cpp.html#a6283df8c4e365cc8a01727e2d7ad44bf">T</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="ae3262af5da3ef0b19d93a6e948e68c88"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae3262af5da3ef0b19d93a6e948e68c88">&#9670;&nbsp;</a></span>has_assignment</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T , class U &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">concept has_assignment</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">= <a class="code" href="typedefs-array_8hpp.html#a937eb567915c5e07b0623894add4bdcd">requires</a> (<a class="code" href="prettywritertest_8cpp.html#a6283df8c4e365cc8a01727e2d7ad44bf">T</a> arg, U&amp;&amp; other) {</div>
+<div class="line">    arg = other;</div>
+<div class="line">}</div>
+</div><!-- fragment -->
+<p>If type T can be assigned to by type U&amp;&amp;. </p>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">T</td><td>The left hand side of the assignment </td></tr>
+    <tr><td class="paramname">U</td><td>The right hand side of the assignment </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="definition">Definition at line <a class="el" href="typedefs-array_8hpp_source.html#l00018">18</a> of file <a class="el" href="typedefs-array_8hpp_source.html">typedefs-array.hpp</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Wed Apr 14 2021 00:01:35 for BeatSaber-Hooks by&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1
+Generated on Fri Jun 25 2021 16:58:53 for BeatSaber-Hooks by&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1
 </small></address>
 </body>
 </html>

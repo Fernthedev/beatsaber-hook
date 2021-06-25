@@ -1,0 +1,4 @@
+<map id="il2cpp_utils::cast" name="il2cpp_utils::cast">
+<area shape="rect" id="node1" title="Performs an il2cpp type checked cast from T to U. This should only be done if both T and U are refere..." alt="" coords="193,5,312,32"/>
+<area shape="rect" id="node2" href="$namespaceil2cpp__utils.html#af9764e1ccfc5220053de1affb65d07fa" title="Performs an il2cpp type checked cast from T to U, reference version. See cast for more documentation." alt="" coords="5,5,145,32"/>
+</map>
